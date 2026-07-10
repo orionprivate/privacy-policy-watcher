@@ -1,0 +1,129 @@
+Summary:
+This policy explains what data we collect, how we use it, and what choices you have. It applies to how Noom handles your data when you use our services.
+Noom’s mission is to help as many people as possible live healthier lives through behavior change. We wrote this policy to help you understand what information we collect through our websites, apps, devices, and other products and services, how we use it, and what choices you have about it.
+Please note, this policy does not cover data we handle on behalf of other entities. Those practices are covered by our agreements with those entities. Please see those privacy policies for how they handle your data.
+Table of Contents
+How we collect information:
+Summary:
+We collect data in a few ways: what you give us directly, what is gathered when you use Noom, data from outside sources, and insights from that data. This may include personal, technical, and health information.
+The information we collect depends on how you interact with us, the services you use, and the choices you make. We collect information about you from different sources and in various ways when you use our services, including information you provide directly, information collected automatically, information from third-party data sources, and data we infer or generate from other data.
+Information you provide: When you sign up for or use Noom, you share certain information, such as:
+- Common personal information and identifiers: We collect name, username or alias, and contact details such as email address, postal address, and phone number.
+- Demographic data: In some cases, we request that you provide or you may offer age, gender, marital status, and similar demographic details.
+- Payment information: If you make a purchase or other financial transaction, we collect credit card numbers, financial account information, and other payment details.
+- Contents and files: We collect the photos, documents, or other files you upload to Noom; and if you send us email messages or communications, we collect and retain those communications.
+- Sensitive Personal Information: - Account access information: We collect information such as a username or account number in combination with a password, security or access code, or other credential that allows access to an account.
+- Contents of communications: We collect the contents of messages you send in chats and message boards in our apps.
+- Health data: We collect and analyze information concerning your health, such as weight, mental state, sleep and exercise habits, and food intake.
+- Sensitive demographic data: We collect information about racial or ethic origin, religion, or philosophical beliefs that you may provide or we infer throughout the program to better support you.
+Technical information collected automatically when you use Noom: When you use our website or mobile application, certain internet and electronic network activity information gets created and logged automatically. Here are some of the types of information we collect:
+Log data: When you use Noom, our servers record information (“log data”), including information that your browser automatically sends whenever you visit a website, or that your mobile app automatically sends when you’re using it. This log data includes your IP address, browser type and settings, and the date and time you used Noom.
+Geolocation data: Depending on your device and app settings, we collect geolocation data when you use our apps or online services. For example, we may infer your general geographic location (such as city, state, and country) based on your IP address.
+Cookie data: We and our partners also use cookies, web beacons, mobile analytics and advertising device IDs, and similar technologies. We and our partners use these technologies in websites, apps, and online services to collect personal data (such as the pages you visit, the links you click on, and similar usage information, identifiers, and device information) when you use our services, including personal data about your online activities over time and across different websites, apps, or online services. For more information on our use of cookies, please see our Cookie Policy.
+Device information: In addition to log data, we collect information about the device you’re using Noom on, including the type of device, operating system, settings, unique device identifiers, and crash data.
+Usage data and customization: When you’re on Noom, we use your activity—such as the foods you typically log— to customize your experience. We also automatically log your other activity on our websites, apps, and connected products, including the URL of the website from which you came to our sites, pages you viewed, how long you spent on a page, access times, and other details about your use of and actions on our website.
+Sensor data: We may also receive data from third party sensors you choose to connect; for example, you can choose to connect your Apple Watch Health App with Noom so we can receive and help you track your step and exercise data.
+Information we create or generate: We infer new information from other data we collect, including using automated means to generate information about your likely preferences or other characteristics (“inferences”). For example, we may infer your BMI from your height and weight.
+Information collected from third-party services: We also obtain the types of information described above from third parties. These third-party sources include, for example:
+- Third-party partners: Third-party applications and services, including social networks you choose to interact with to connect to our services. What we have access to is dependent on the privacy policies or settings for those accounts.
+- Information our advertisers share with us: We also get information about you and your activity from our advertising partners and other third parties we work with. For example, online advertisers or third parties share information with us to measure, report on, or improve the performance of ads for Noom.
+- Co-branding/marketing partners: Partners with which we offer co-branded services or engage in joint marketing activities.
+- Service providers: Third parties that collect or provide data in connection with work they do on our behalf. For example, companies that determine your device’s location based on its IP address.
+When you are asked to provide your information, you may decline or use browser or device controls to prevent certain types of data collection. In some cases, if you choose not to provide information that is necessary, some services or features may not be available or fully functional.
+What we do with the information we collect:
+Summary:
+We use your information to run and improve Noom, personalize your experience, support you, communicate with you, and (in some cases) show you marketing or ads.
+We’re committed to providing a service that’s relevant, interesting, and personalized. To do that, we use your information to provide and improve your experience. For example:
+| Purposes of Use | Categories of Information |
+|---|---|
+| Product and service delivery. To provide and deliver products and services, including fulfilling your order, troubleshooting, and personalizing our services. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Account access information, sensitive demographic data, contents of communications, health data. |
+| Business operations. To operate our business, such as billing, accounting, improving our internal operations, securing our systems, detecting fraudulent or illegal activity, and meeting our legal obligations. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Account access information, sensitive demographic data, contents of communications, health data. |
+| Product improvement, development, and research. To improve our products and services and develop new products and services (including AI/ML) and conduct user research (surveys, interviews). | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Account access information, sensitive demographic data, contents of communications, health data. |
+| Personalization. To understand you and your preferences to enhance your experience and enjoyment using our services. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Account access information, sensitive demographic data, contents of communications, health data. |
+| Customer support. To provide customer support and respond to your questions. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Account access information, sensitive demographic data, contents of communications, health data. |
+| Communications. To send you information, including confirmations, invoices, technical notices, updates, security alerts, reminders, support, and administrative messages. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Sensitive demographic data, health data. |
+| Marketing. To communicate with you about new services, offers, promotions, rewards, contests, upcoming events, and other information about our services and those of our selected partners. | Contact information, demographic data, payment information, content and files, identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Sensitive demographic data, health data. |
+| Advertising. To display advertising to you. | Contact information, demographic data, payment information, content and files,identifiers and device information, geolocation data, log data, usage data, sensor data, inferences. Sensitive Information: Sensitive demographic data, health data. |
+We combine data we collect from different sources for these purposes, and to give you a more seamless, consistent, and personalized experience. See Your rights and choices for information about how to update or change your preferences.
+How and when we share your information:
+Summary:
+We share your data with service providers, partners, and others to run our business, process payments, or comply with the law. We also share when you connect other services. Some sharing may count as “selling” under certain privacy laws.
+We may share your information with, for example:
+- Other services: Other services, at your direction, when you decide to link your Noom account to those services. If you link your Noom account to any of those third parties, or allow us to share your information with them, that data is governed by their privacy policies.
+- Service providers: We provide your information to vendors or agents working on our behalf for the purposes described in this policy. For example, companies we’ve hired to provide customer service support or assist in protecting and securing our systems and services may need access to your information to provide those functions.
+- Financial services and payment processing: When you provide payment data, for example to make a purchase, we will disclose payment and transactional data to banks and other entities as necessary for payment processing, fraud prevention, credit risk reduction, analytics, or other related financial services.
+- Corporate transactions: We may disclose your information as part of a corporate transaction or proceeding such as a merger, financing, acquisition, bankruptcy, dissolution, or a transfer, divestiture, or sale of all or a portion of our business or assets.
+- Legal and law enforcement: We will access, disclose, and preserve your information when we believe that doing so is necessary to comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies.
+- Safety, security, and protecting rights: We will also disclose your information if we believe it is necessary to:
+- Protect our customers and others; for example, to prevent spam or attempts to commit fraud, or to help prevent the loss of life or serious injury of anyone.
+- Operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks.
+- Protect the rights or property of ourselves or others, including enforcing our agreements, terms, and policies.
+- Advertising providers: Third party analytics and advertising companies also collect personal data through our website and apps, including identifiers and device information (such as cookie IDs, device IDs, and IP address), geolocation data, log data, and inferences based on and associated with that data, as described in our Cookie Policy. These third-parties may combine this data across multiple sites to improve analytics for their own purposes and for others. For example, we use Google Analytics on our website to help us understand how users interact with our website; you can learn how Google collects and uses information at www.google.com/policies/privacy/partners.
+Some of the information disclosures to these third parties may be considered a “sale” or “sharing” of personal information as defined under the laws of California and other U.S. states. Please see “Your rights and choices” and “State-specific disclosures” below for more details.
+How long we keep your information:
+Summary:
+We keep your information only as long as needed to run our services, meet legal needs, and resolve disputes. How long we keep data depends on the type of data and how you use Noom.
+We keep your information only so long as we need it to provide our services to you, fulfill the purposes described in this policy, comply with our legal obligations, resolve disputes, and enforce our agreements. Actual retention periods can vary significantly based on your expectations and consent, the sensitivity of the data, the availability of automated controls, and our legal or contractual obligations.
+Your rights and choices:
+Summary:
+You have control over your information. You can access, update, delete, or request a copy of your data, and adjust how we use it. Some rights depend on where you live.
+Our goal is to give you simple and meaningful choices regarding your information. If you have a Noom account, many of these controls are built directly into your settings. For example, you can:
+- Edit information in your profile at any time.
+- Link or unlink your Noom account from other services.
+- Choose whether Noom will be customized for you using your inputs (for example, by adding or removing your food entries or step count).
+- Close your account and delete your account data. (Please note that there may be legal reasons for us to keep your data, such as if we receive a law enforcement request asking us to preserve data.)
+In some jurisdictions, these controls and choices may be enforceable as rights under applicable law.
+Access and portability of your information: We can usually share this with you in a portable format within 30 days of you asking us. To request data export, please contact us at support@noom.com using the email address tied to your Noom account.
+Correction and deletion of your information: You can log into your profile to update your information, or delete your data at any time by closing your account. Please note that there may be legal reasons for us to keep your data, such as if we receive a law enforcement request asking us to preserve data. To request account deletion, please contact us at support@noom.com using the email address tied to your Noom account.
+Object to us processing your information: You can ask us to stop using your information for certain purposes, including when we use your information to send you marketing emails or SMS messages. If you opt-out of receiving marketing messages from us, we may still send you updates about your account, such as when you request reminders from us to log in.
+Targeted advertising: To learn how to opt-out from or change your preferences for targeted advertising, please visit our Cookie Policy.
+Data sharing or sales: Some privacy laws define “data sharing” or “sales” to include some of the disclosures described in “How and when we share your information” above. Please follow the “Your Privacy Choices” link to learn more about opting out from these kinds of disclosures.
+Browser or device controls: To learn how to use browser and device controls to express your choices, including the Global Privacy Control, please visit our Cookie Policy. If you have questions, please don’t hesitate to contact us.
+Research participation:
+Summary:
+We may use data that doesn’t identify you to improve our programs and conduct research. You can opt out if you don’t want your data used this way.
+We are committed to validating our approach to lifelong behavior change using science. We publish using only aggregated, de-identified data. If you would not like your information used in our studies, please fill out the opt out of Noom research form. You may view the Advarra Institutional Review Board (IRB) Informed Consent document.
+Transferring your information:
+Summary:
+Your information may be stored or processed in different countries, including the United States. We take steps to protect your data when it’s transferred.
+The information we collect may be stored and processed in your country or region, or in any other country where we or our affiliates, subsidiaries, or service providers process data. Currently, we primarily use data centers in the United States. These locations were chosen to operate efficiently and improve our performance.
+We take steps to protect your information as described in this policy wherever the data are located, some of which have not been determined by the European Commission to have an adequate level of data protection. When we do so, we use legal mechanisms, including contracts, to help ensure your rights and protections. To learn more about the European Commission’s decisions on the adequacy of personal data protections, please visit: https://commission.europa.eu/document/fa09cbad-dd7d-4684-ae60-be03fcb0fddf_en.
+State-specific disclosures:
+Summary:
+If you live in certain U.S. states, you may have additional rights—like knowing what data we collect, requesting deletion or correction, or opting out of certain data sharing practices.
+If you are a customer covered by “Washington’s My Health, my Data” Act or Nevada’s SB 370, please visit Noom’s Consumer Health Data Privacy Notice.
+Residents of certain states may have additional rights and choices, including:
+Notice at Collection: You have a right to receive notice of our practices before or when we collect your information, including the categories of information and sensitive personal information collected, the purposes for which such information is collected or used, whether such information is sold or shared, and how long such information is retained. You can find those details in this policy under the headers above.
+Right to Know: You have a right to see the information we have collected about you. You may request your information by contacting us at support@noom.com using the email address tied to your Noom account.You also have a right to request additional information about our collection, use, disclosure, selling or sharing of such information. You can find those details in this policy under the headers above.
+Rights to Request Correction or Deletion: You also have rights to request that we correct inaccurate information about you or delete your information. You can log into your profile to update your information, or delete your data at any time by logging into your account or by contacting us at support@noom.com using the email address tied to your Noom account. Please note that there may be legal reasons for us to keep your data, such as if we receive a law enforcement request asking us to preserve data.
+Right to Opt-Out/Right to Limit Use and Disclosure of Sensitive Personal Information: NOTICE: This website may sell your sensitive personal data. You have a right to opt-out from the “sale” or “sharing” of your personal information. You also have a right to limit our use of sensitive personal information for purposes other than to provide Noom. Please visit Your Privacy Choices if you do not wish for us or our partners to share information relating to you and your use of Noom for marketing and advertising purposes.
+Noom does not sell or share the personal information of children or teens.
+Right Against Discrimination: Noom will never discriminate against you for exercising these rights.
+You may designate, in writing or through a power of attorney, an authorized agent to exercise these rights on your behalf. Before accepting such a request from an agent, we will require the agent to provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us.
+Lastly, under California Civil Code section 1798.83, also known as the “Shine the Light” law, California residents who have provided personal information to a business with which they have established a business relationship for personal, family, or household purposes (“California Customers”) may request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes.
+Residents of the EEA, UK, and Switzerland:
+Summary:
+If you’re in the EEA, UK, or Switzerland, you have certain data rights. These include access, deletion, and the right to object to or limit how your data is used.
+If the processing of your information is subject to the European Economic Area (EEA), United Kingdom (UK), or Swiss data protection law, you have certain rights with respect to that data:
+- You can request access to, and rectification or erasure of, your information by contacting us at GDPRsupport@noom.com using the email address tied to your Noom account;
+- If any automated processing of your information is based on your consent or a contract with you, you have a right to transfer or receive a copy of the personal data in a usable and portable format;
+- If the processing of your information is based on your consent, you can withdraw consent at any time for future processing;
+- You can object to, or obtain a restriction of, the processing of your information under certain circumstances; and
+- For residents of France, you can send us specific instructions regarding the use of your data after your death.
+To make such requests, please contact us at GDPRsupport@noom.com. When we are processing data on behalf of another party that is the “data controller,” you should direct your request to that party. You also have the right to lodge a complaint with a supervisory authority, but we encourage you to first contact us with any questions or concerns.
+We rely on different lawful bases for collecting and processing your information. For example, with your consent or as necessary to provide the services you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfill other legitimate interests.
+If you have any questions about our data processing activities, please contact us at GDPRsupport@noom.com.
+If you think that we haven’t complied with data protection laws, you have a right to lodge a complaint with the Data Protection Commission in Ireland or with your local supervisory authority.
+Changes to this policy:
+Summary:
+We may update this policy from time to time. If we make major changes, we will notify you. Continuing to use Noom means you accept the updated policy.
+We may change this policy from time to time and if we do, we’ll post any changes on this page. If you continue to use Noom after those changes are in effect, you agree to the new policy. If the changes are significant, we may provide more prominent notice or obtain your consent to the changes.
+Contact us:
+Summary:
+If you have questions about your data or this policy, you can contact us at support@noom.com.
+The best way to get in touch with us is by emailing support@noom.com or at
+Noom, Inc.
+Attention: Privacy Officer
+One Palmer Square, Suite 441
+Princeton, NJ 08542
+Updated Oct 1, 2024.

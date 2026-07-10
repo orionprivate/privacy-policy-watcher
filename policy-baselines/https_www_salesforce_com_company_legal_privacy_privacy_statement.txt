@@ -1,0 +1,90 @@
+Salesforce’s full Privacy Statement contains more information about Salesforce’s privacy practices.
+Salesforce, Inc. and/or its affiliated entities (“Salesforce, “we”, “us”, or the “Company”) act as the controllers of your Personal Data and are responsible for its processing, unless expressly specified otherwise in our full Privacy Statement. For the avoidance of doubt, our Privacy Statement does not apply to the extent we process Personal Data in the role of a processor on behalf of our customers. A list of Salesforce’s affiliates can be found in the List of Subsidiaries section of Salesforce’s most recent Form 10-K, available under the SEC Filings tab by selecting the “Annual Filings” filter on the page located here.
+We collect and process Personal Data for a variety of purposes, including but not limited to the following:
+- to provide our websites (including our social media pages);
+- to display personalized advertisements and content;
+- to manage event registrations, attendance, and participation in webinars, contests or promotions;
+- to ensure the safety and security of our offices, premises, employees and events;
+- to send marketing communications;
+- to handle support or service-related requests;
+- to prospect sales leads;
+- to develop and optimize the performance of our services;
+- to manage and document our customer and user accounts;
+- to administer surveys and conduct research; and
+- to comply with our legal obligations and defend Salesforce.
+For the entire list of purposes for which we Process your Personal Data, please see the full Privacy Statement.
+We only collect and process your Personal Data to the extent it is necessary for fulfilling these purposes and where we can rely on a legal basis for such processing as set out in our full Privacy Statement. Where legally required, we will ask you for your prior consent to processing.
+Please review the "What Personal Data do we collect?" and "Purposes for which we process your Personal Data and the legal bases on which we rely" sections in our full Privacy Statement for further details. Also, please review the "How long do we keep your Personal Data?" section to learn how long we store your Personal Data.
+We may share Personal Data with various parties, including:
+- service providers;
+- Salesforce affiliates;
+- event sponsors;
+- partners;
+- customers with whom you are affiliated and/or the applicable partner responsible for access to your services;
+- contest and promotion sponsors;
+- third-party networks and websites;
+- Salesforce-affiliated App Exchange partners;
+- professional advisors;
+- third parties involved in a corporate transaction;
+- third party accounts (in relation to Tableau); and
+- public authorities.
+Please review the "Who do we share Personal Data with" section in our full Privacy Statement for the full list and more detailed information about each category listed above.
+Your Personal Data may be transferred to, and stored by us, in the United States and by our affiliates and third parties (as disclosed in the full Privacy Statement) as listed in the Privacy Statement. Therefore, your Personal Data may be processed and stored outside your country or jurisdiction, including in places that may not provide the same level of protection. As described in the "International transfers of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of protection where your Personal Data is transferred, including, where required, standard contractual clauses or an alternative mechanism for the transfer of Personal Data as approved by the European Commission. Salesforce also commits to comply with the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. Data Privacy Framework (collectively, the “DPF”) and certifies its adherence to the DPF Principles as set forth by the U.S. Department of Commerce.
+For more information, please see the full Privacy Statement.
+You have certain rights relating to your Personal Data, subject to local data protection laws. Depending on the applicable laws, these rights may include the right to:
+- Access your Personal Data held by us;
+- Know more about how we process your Personal Data;
+- Rectify inaccurate Personal Data and, taking into account the purpose of processing the Personal Data, ensure it is complete;
+- Erase or delete your Personal Data;
+- Restrict our processing of your Personal Data;
+- Transfer your Personal Data to another controller (data portability), to the extent possible;
+- Object to any processing of your Personal Data;
+- Opt out of certain disclosures of your Personal Data to third parties;
+- Know what categories of Personal Data are shared for delivering advertisements on non Salesforce websites, applications, and services and the categories of recipients of such Personal Data;
+- Opt out of the sharing of your Personal Data for delivering advertisements on non-Salesforce websites, applications, and services;
+- If you’re under the age of 16, or such other applicable age of consent for privacy purposes in relevant individual jurisdictions, opt in to certain disclosures of your Personal Data to third parties;
+- Not be subject to a decision based solely on automated processing, including profiling, which produces legal effects (“automated decision-making”);
+- Withdraw your consent at any time (to the extent we rely on consent as our legal basis for processing it);
+- Complain about the use of your Personal Data;
+- Not be discriminated against for exercising your rights as described above; and
+- Appeal our refusal to act upon your request to exercise a right relating to your Personal Data by following the steps provided in response to your inquiry.
+For more details on your rights and choices and how to exercise them, please review the "Your rights relating to your Personal Data" section in our full Privacy Statement.
+To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out this form, email us at privacy@salesforce.com, call us at tel:1-800-931-7365 or write to us at:
+Salesforce Data Protection Officer (Salesforce Privacy Team) (and in India, a Grievance Officer)
+415 Mission St., 3rd Floor
+San Francisco, CA 94105, USA
+When you contact us, please indicate in which country and/or state you reside.
+If you have an unresolved concern in respect of our processing of your Personal Data that you believe we have not addressed satisfactorily, you can contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
+If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA or the UK, you have the right to lodge a complaint with the competent supervisory authority. If you work or reside in a country that is a member of the European Union or that is in the EEA, you may find the contact details for your appropriate data protection authority on the following website.
+If you provide us, our service providers or our affiliates with any Personal Data relating to other individuals, you:
+• represent that you have the authority to do so,
+• where required, have obtained their necessary consent(s) to share their Personal Data with us for processing, and
+• acknowledge and accept that it may be used in accordance with this Privacy Statement.
+If you believe that your Personal Data has been provided to us improperly, or want to exercise your rights relating to your Personal Data, please contact us by using the information in Section 13 below.
+3.2 Personal Data we collect from other sources
+We also collect information about you from other sources including partners from whom we collect or purchase Personal Data, or who provide us with publicly available information which may contain Personal Data. We may combine this information with Personal Data provided by you.
+Provision of our services:
+• The Personal Data we collect to provide our services may include information you have made publicly available online (such as when using social media sites) or that is published by third parties and contains information about you (such as news articles). For a select number of services, we collect this Personal Data from partners who may receive this data when you visit or use their services or through the third parties they work with.
+• In addition, the Personal Data we collect to provide our services may include location information from third parties, which helps us offer features like identity management and multi-factor authentication for security purposes.
+Advertising: The Personal Data we collect from other sources for the purposes of tailored advertising includes personal identifiers professional or employment-related information, education information, commercial information, internet activity information, and inferences about preferences and behaviors. We collect this from third party providers of business contact information, including mailing addresses, job titles, email addresses, phone numbers, user behavior data, IP addresses, social media profiles, LinkedIn URLs and custom profiles for purposes of tailored advertising, delivering relevant email content, event promotion and profiling, marketing campaign eligibility, and verifying contact information. This helps us update, expand, and analyze our records, identify new customers, and create more tailored and relevant advertising to provide services that may be of interest to you.
+Additional sources: In addition, we also collect Personal Data from the following sources:
+• Another individual at your organization who may provide us with your personal information, which may include Personal Data and special categories of Personal Data, to the extent you consent to providing it and sharing it;
+• Platforms such as GitHub to manage code check-ins and pull requests. If you participate in an open source or community development project, we may associate your code repository username with your community account so we can inform you of program changes that are important to your participation or relate to additional security requirements; and
+• Only where necessary for security purposes, we may collect information that is publicly available online (such as accessible through search engines or public social media sites), as well as images, physical descriptions and other pertinent information necessary to address a credible security threat to our employees, events or premises.
+For more information about Tableau’s use of cookies specifically, please see the Tableau Cookie Policy .
+4.3 Notices on behavioral advertising and opt-out for website visitors
+As described above, we or one of our authorized partners may place, and read the data collected by, cookies on your device when you visit our websites for the purpose of serving you tailored advertising (also referred to as “online behavioral advertising” or “interest-based advertising”). To learn more about tailored advertising and advertising networks, please visit the opt-out pages of the Network Advertising Initiative, here , and the Digital Advertising Alliance, here .
+To manage the use of targeting and advertising cookies on this website, navigate to the “Cookie Preferences” link available in any salesforce.com website footer or consult your individual browser settings for cookies. To learn how to manage privacy and storage settings for Flash cookies, click here . Various browsers may also offer their own management tools for removing HTML5 local storage.
+4.4 Opt-Out from the setting of cookies on your individual browser
+In addition to using the user preference center, in many cases you may opt-out from the collection of non-essential device data on your web browser (see Section 4.1 above) by managing your cookies at the browser or device level. In addition, if you wish to opt-out of interest-based advertising, navigate to the “Cookie Preferences” link available in any salesforce.com website footer to choose your settings. Please note, however, that by blocking or deleting cookies and similar technologies used on our websites, you may not be able to take advantage of the full functionality of the websites.
+While some internet browsers offer a “do not track” or “DNT” option that lets you tell websites that you do not want to have your online activities tracked, these features are not yet uniform and there is no common standard adopted by industry groups, technology companies, or regulators. Therefore, we do not currently commit to responding to browsers’ DNT signals with respect to our websites. Salesforce takes privacy and meaningful choice seriously and will continue to monitor developments around DNT browser technology and the implementation of a universal standard.
+4.5 Social Media Features
+Our websites may use social media features, such as the “Post” button and other sharing widgets (“Social Media Features”). Social Media Features may allow you to post information about your activities on our website to outside platforms and social networks. Social Media Features may also allow you to like or highlight information we have posted on our website or our branded social media pages. Social Media Features are either hosted by each respective platform or hosted directly on our website. To the extent the Social Media Features are hosted by the platforms themselves, and you click through to these from our websites, the platform may receive information showing that you have visited our websites. If you are logged in to your social media account, it is possible that the respective social media network can link your visit to our websites with your social media profile.
+Salesforce also allows you to log in to certain of our websites using sign-in services. These services authenticate your identity and provide you the option to share certain Personal Data from these services with us such as your name and email address to pre-populate our sign-up form.
+Your interactions with Social Media Features and their uses of your Personal Data are governed by the privacy statements of the companies providing these features Salesforce has no control over these.
+4.6 Telephony log information
+If you use certain features of our services on a mobile device, we may also collect telephony log information (like phone numbers, time and date of calls, duration of calls, SMS routing information and types of calls), device event information (such as crashes, system activity, hardware settings, browser language), and location information (through IP address, GPS, and other sensors that may, for example, provide us with information on nearby devices, Wi-Fi access points and cell towers).
+If we need to collect and process Personal Data by law, or under a contract we have entered into with you, and you fail to provide the required Personal Data when requested, we may not be able to perform our contract with you.
+*Requests may be unable to be completed due to factors like duplicate requests, the inability to verify the resident’s identity or lack of response.
+**Time to complete a request may depend in part on receipt of information from the person making the request, such as information to verify the person’s identity or information about the action requested.
+Data is for all requests received by the Salesforce Family Affiliates from California residents between January 1 and December 31, 2025.

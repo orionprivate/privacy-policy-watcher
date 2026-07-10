@@ -1,0 +1,111 @@
+Your Privacy and Kagi
+At Kagi, you are our customer, not the product being sold
+The deal is simple: Our customers pay for a service and we provide them with a service. This business model ensures Kagi's and our customers' interests are always aligned.
+We value your privacy, and whenever possible we will choose not to require or save any user data. For Kagi, user data is only a liability - we do not need or want it. Still, operating a paid service may require some basic information from our customers, and this document describes how we use it to the best of our ability.
+We strive to give our customers the possibility to maximize their anonymity. Users who want provable anonymity guarantees may access our service by:
+- Creating an account with a pseudonymous email address
+- Paying for their plan using cryptocurrency
+- Accessing our services via Tor service
+- Anonymously authenticating using the Privacy Pass protocol
+For information about your data protection rights under GDPR, CCPA, and other privacy laws, see our Privacy Rights Addendum.
+This is a living document of technical details and policies that we will update over time. If the changes are substantive, we will announce the update through Kagi's usual channels for such announcements such as product changelog, blog posts and/or forums.
+If you still have questions, or find mistakes in this document, please reach out to us at support@kagi.com. Help us be a role model for privacy on the web.
+See the changelog at the end of this document for more details on changes in this document.
+Our technology choices show we're serious about privacy. You can check them in your browser.
+- Unlike most websites, we do not load any analytics or telemetry.
+- Unlike most search engines, we do not track which search result you choose to click.
+- When viewing images, videos or other media results, or using the Kagi Assistant, we protect your privacy by proxying all connections and data through our servers.
+- We store only the bare minimum of cookies, those required to handle basic application functionality, such as logging in.
+These are the cookies we use as part of providing our service, they protect your security and enhance the product experience.
+| Name | Location | Contents | Purpose |
+|---|---|---|---|
+| kagi_session | cookies | Opaque Token | Session identifier. Never share this with anyone. |
+| _kagi_search_ | cookies | Opaque Token | CSRF protection. |
+| kagi_previous_page | cookies | URL path | Temporarily used for returning you to the previous page you were browsing upon login or from the settings page. |
+| kagi_precise_location | cookies | Base64 Encoded JSON | Stored client location when using optional Geolocation or manual location setting in Maps |
+| kagi_sse_replay | localstorage | JSON | For clients that use JavaScript, this is a limited local cache of result markup to skip round trips to our servers for recent queries. |
+| mapbox.* | localstorage | JSON | Bookkeeping for fullscreen maps application |
+These are subject to change as our product grows. For the most up to date listing, please see our Cookies Documentation.
+We make a conscious effort to keep this list as small as possible, only storing data when absolutely necessary to do so. If you notice anything missing from this list, or any inaccuracies, please contact us!
+- Kagi uses Apple Maps, Mapbox, Yelp and TripAdvisor, as on-demand third party providers that may be loaded as a part of consuming Maps.
+- Kagi uses Stripe, Reach, PayPal, and OpenNode as on-demand third party payment processors that may be loaded for billing reasons.
+- Customers who choose to login using Apple, Google, or Microsoft account authentication will load the corresponding service.
+These services may save additional resources on your client not documented in the table above.
+We may store web requests made by user browser temporarily, with strict retention periods, for debugging purposes, and in a manner that they are not linked to an account.
+Debugging retention periods:
+| Type | Retention | Purpose |
+|---|---|---|
+| Load Balancer Logs | 7 days | Identifies and protects against Denial of Service Attacks (DDoS prevention). Only a subset of traffic is sampled. |
+| Virtual Machine Logs | 7 days | Contains debug information used to ensure system reliability and availability. |
+| Sentry | 90 days | Contains information about server-side errors that occur within our production applications. Only a subset of traffic is sampled. |
+This section refers to the AI tools in Kagi including but not limited to Kagi Assistant, Summarize Results, Universal Summarizer, Ask Questions about Document, FastGPT, and Kagi Translate.
+- When using third party AI model providers, we are using privacy-respecting services that do not save the data or use it for training, whenever possible. Please refer to Kagi LLM Privacy for details.
+- Unless stated below, and in a similar vein as Search, requests to AI tools are not saved or associated with a customer account (they may be retained for a short period of time as a part of request debugging, explained above).
+- By default and unless otherwise stated, Kagi Assistant automatically deletes conversation threads after one day. After this period, they are permanently removed. Users can also choose to delete a thread immediately via the Assistant UI.
+- Summaries of public web pages may be cached for a short period of time, not more than a day. No customer data is cached.
+The Orion browser is a zero-telemetry browser by default, and will transmit no personal information to Kagi servers unless opted-in by the user (for example for automatic updates, or for using built-in Kagi services on demand).
+The Kagi browser extension is governed by the overall Kagi Privacy Policy above, in particular:
+- If permitted, the extension will access your Kagi.com session cookie.
+- If configured to run in Private Windows, the extension will provide your Kagi.com session information in all requests to Kagi.com.
+- This allows you to use Kagi search in Private Windows without logging in each time, so long as your normal browsing session remains logged in.
+- At no point is this session information sent to any third party.
+- To invalidate the session information, simply log out of your Kagi account from any session.
+Kagi takes security seriously, and has systems in place to protect what little personal data we hold from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
+If you have any concerns please contact us at security@kagi.com or check our Bug bounty program.
+For payment processing, Kagi uses external payment processors such as Stripe, Reach, PayPal, and OpenNode. These services may be loaded only when necessary for billing and administrative purposes. Your use of these payment services is subject to their respective terms and privacy policies.
+Payment information is not used to link users to their Kagi activities. While we do keep a record of usage volume for billing purposes, search queries themselves are only logged temporarily for debugging purposes and are automatically purged after a short period, as detailed above. This temporary logging helps us maintain and improve service quality while preserving user privacy.
+We may use the email address provided for necessary payment-related communications such as receipts, invoices, and payment update notifications. Within Kagi, access to billing data is restricted only to authorized personnel.
+We, Kagi, are committed to being transparent and taking full control of our service. Private information of our customers has never been disclosed or seized, nor have we been compromised or suffered a data breach.
+Kagi has received:
+- 0 National Security letters
+- 0 Gag orders
+- 0 Warrants from any government organization
+The Delaware public benefit corporation (PBC), an entity created by amendment to the Delaware General Corporation Law in 2013, is structurally identical to the familiar Delaware C corporation with one major difference: Company directors and officers are given explicit permission to consider a purpose beyond simply maximizing shareholder value. Instead, company insiders are directed to balance (1) the pecuniary interests of stockholders, (2) the best interests of all stakeholders (including employees, customers, vendors, and the communities in which they operate), and (3) one or more specific public benefits identified in their corporate charter.
+In particular, Kagi's public benefit statement entered in our charter is "Kagi is committed to creating a more human-centric and sustainable web that benefits individuals, communities, and society as a whole, with a transparent business model that aligns the incentives of everyone involved."
+The PBC framework doesnât just allow company directors and officers to consider their mission â it specifically directs them to do so. Converting to a PBC insulates mission-focused companies from external pressures that may force them from their path. For those that believe the best way to build a company is to do right by their stakeholders and prioritize long-term thinking, the PBC provides a way to enshrine their mission into the very DNA of their company.
+Bear in mind that all services provided in Kagi are provided âas isâ and there are no warranties. There will be significant limitations for any damages from your use of Kagi and any services provided.
+Introduction These Terms of Service ("Terms") govern your use of Kagi (the "Services").
+Accounts In order to use some of the Services, you may need to create a Kagi Account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and other authentication methods and for the activity that happens through your Kagi account. Kagi is not responsible for any losses arising out of unauthorized use of your account.
+Privacy Policy We use the information we receive through the Services as described in our Kagi Privacy Policy, which is stated in full above.
+Fair Use Policy In an effort to provide high-quality services to all users, we limit AI tool interactions based on your plan's value. For example, a $25 monthly plan allows up to $25 worth of token usage across all models.
+Commercial Use Only Kagi API products are licensed for commercial use. Frontend products, such as (but not limited to) Universal Summarizer (found here) may only be used for non commercial purposes. We define "non-commercial" following the Creative Commons definition: "not primarily intended for or directed towards commercial advantage or monetary compensation. If you would like to use frontend products for commercial use, please contact support@kagi.com or ask on Discord to arrange for a license.
+Communications We send periodic messages to help you get the most from your Kagi Account. You may receive these in your browser or to the address you signed-up with; they cover onboarding, different Services, and Kagi related offers and surveys. You can opt-out of these in your Kagi account settings. We may send transactional emails as needed (for example billing receipts, subscription updates and so on).
+Payments For subscriptions that renew automatically and/or postpaid products, you authorize Kagi and its billing providers to charge your payment methods until the subscription is terminated and all postpaid products have been paid for. Auto-renewing subscriptions may be canceled online in your account settings at any time prior to the renewal date. You may also cancel your subscription via email to support@kagi.com, in which case your cancellation must be received at least 72 hours prior to renewal in order to allow for processing time. Kagi and its billing providers reserve the right to collect any outstanding payments to the maximum extent permitted by applicable law.
+Proprietary Rights Kagi does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Kagiâs copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
+Termination These Terms will continue to apply until ended by either you or Kagi. You can choose to end them at any time for any reason by deleting your Kagi account, discontinuing your use of the Services, and if applicable, unsubscribing from our emails. We may suspend or terminate your access to the Services at any time for any reason, including, but not limited to, if we reasonably believe: (i) you have violated these Terms, (ii) you create risk or possible legal exposure for us; or (iii) our provision of the Services to you is no longer commercially viable. We will make reasonable efforts to notify you by the email address associated with your Kagi account or the next time you attempt to access the Services. In all such cases, these Terms shall terminate, including, without limitation, your license to use the Services, except that the following sections shall continue to apply: Indemnification, Disclaimer; Limitation of Liability, Miscellaneous.
+Indemnification You agree to defend, indemnify and hold harmless Kagi, its contractors, contributors, licensors, and partners, and their respective directors, officers, employees and agents ("Indemnified Parties") from and against any and all third party claims and expenses, including attorneys' fees, arising out of or related to your use of the Services (including, but not limited to, from any content uploaded by you).
+Disclaimer; Limitation of Liability THE SERVICES ARE PROVIDED "AS IS" WITH ALL FAULTS. TO THE EXTENT PERMITTED BY LAW, KAGI AND THE INDEMNIFIED PARTIES HEREBY DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION WARRANTIES THAT THE SERVICES ARE FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE, AND NON-INFRINGING. YOU BEAR THE ENTIRE RISK AS TO SELECTING THE SERVICES FOR YOUR PURPOSES AND AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES, INCLUDING WITHOUT LIMITATION THE RISK THAT YOUR CONTENT IS DELETED OR CORRUPTED OR THAT SOMEONE ELSE ACCESSES YOUR ONLINE ACCOUNTS. THIS LIMITATION WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF IMPLIED WARRANTIES, SO THIS DISCLAIMER MAY NOT APPLY TO YOU. EXCEPT AS REQUIRED BY LAW, KAGI AND THE INDEMNIFIED PARTIES WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING OUT OF OR IN ANY WAY RELATING TO THESE TERMS OR THE USE OF OR INABILITY TO USE THE SERVICES, INCLUDING WITHOUT LIMITATION DIRECT AND INDIRECT DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, LOST PROFITS, LOSS OF DATA, AND COMPUTER FAILURE OR MALFUNCTION, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH SUCH CLAIM IS BASED. THE COLLECTIVE LIABILITY OF KAGI AND THE INDEMNIFIED PARTIES UNDER THIS AGREEMENT WILL NOT EXCEED $500 (FIVE HUNDRED DOLLARS). SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL, CONSEQUENTIAL, OR SPECIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+Modifications to these Terms Kagi may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Kagi's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
+Miscellaneous These Terms constitute the entire agreement between you and Kagi concerning the Services and are governed by the laws of the state of Delaware, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
+The previous versions of the policy are always available at the Internet Archive.
+2026-02-17
+Added Your Data Protection Rights covering GDPR, CCPA, and state privacy law data subject rights.
+Added phrasing "including but not limited to" in the opening of the Use of AI Services section to cover future products.
+2025-02-15
+Clarify that only a subset of server-side Sentry errors are collected.2025-02-13
+- Added Privacy pass and Tor options
+- Added request debugging information
+- Added applemap and mapkit cookie information
+- Changed fair use for AI to be bound to actual token cost
+- Simplified and clarified the language
+2024-05-29
+Added section on Browser-Extension2023-09-21
+Increased Fair Use limits for AI tools (300 to 500)
+2023-08-15
+Updated Terms of Use (Clarified commercial use licensing)
+2023-08-04
+Updated Privacy Policy (Clarified summary)
+2023-05-24
+Updated Privacy Policy (Added Warrant Canary and covered "Labs" experiments such as FastGPT)
+2023-05-04
+Updated Privacy Policy (Clarified when data is shared with third parties, and to what extent. Added upload section.)
+2023-02-29
+Updated Privacy Policy (AI Tools & Universal Summarizer)
+2023-02-28
+Updated Terms of Service (Fair Use Policy for AI Tools)
+2022-03-31
+Updated Terms of Service
+2021-11-30
+Added kagi_previous_page cookie to Cookies & Client data table.
+2021-09-02
+Initial draft.
