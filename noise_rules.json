@@ -1,0 +1,6 @@
+{
+  "policies.google.com": [
+    "chat_spark[^\\n]*",
+    "Ask Privacy Policy"
+  ]
+}
