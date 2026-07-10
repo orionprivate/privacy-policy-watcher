@@ -1,0 +1,39 @@
+name: Weekly policy watch
+
+on:
+  schedule:
+    - cron: "0 16 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests trafilatura
+
+      - name: Run policy watch
+        run: python watch_policies.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save state into the repository
+        run: |
+          git config user.name "policy-watch-bot"
+          git config user.email "policy-watch-bot@users.noreply.github.com"
+          for p in policy-baselines policy-fingerprints policy-reports policy-history.json HISTORY.md; do
+            git add "$p" 2>/dev/null || true
+          done
+          git commit -m "Weekly policy watch: ${{ github.run_id }}" || echo "Nothing to save"
+          git push || echo "Nothing to push"
