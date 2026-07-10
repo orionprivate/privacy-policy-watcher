@@ -1,0 +1,106 @@
+# Big Tech Platforms
+https://policies.google.com/privacy
+https://policies.google.com/privacy?hl=en-US
+https://support.google.com/product-documentation/answer/14815921
+https://www.apple.com/legal/privacy/en-ww/
+https://www.microsoft.com/en-us/privacy/privacystatement
+https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
+https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/
+https://legal.yahoo.com/us/en/yahoo/privacy/index.html
+
+# Data Brokers, Ad-Tech & Surveillance
+https://liveramp.com/privacy/
+https://www.acxiom.com/about-us/privacy/
+https://www.experian.com/privacy/us-consumer-data-privacy-policy
+
+
+# AI Tools
+https://openai.com/policies/privacy-policy/
+https://privacy.claude.com/en/articles/10301952-updates-to-our-privacy-policy
+https://www.perplexity.ai/hub/legal/privacy-notice
+cursor.com/privacy
+
+# Social, Messaging & Content
+https://x.com/en/privacy
+https://www.tiktok.com/legal/page/us/privacy-policy/en
+https://www.snap.com/privacy/privacy-policy
+https://policy.pinterest.com/en/privacy-policy
+https://www.linkedin.com/legal/privacy-policy
+https://www.whatsapp.com/legal/privacy-policy
+https://www.wechat.com/en/privacy_policy.html
+https://telegram.org/privacy?setln=en
+https://www.discord.com/privacy
+
+# Streaming, Media & Gaming
+https://www.netflix.com/privacy
+https://help.netflix.com/en/legal/privacy
+https://www.spotify.com/us/legal/privacy-policy/
+https://press.hulu.com/privacy-policy/
+https://legal.twitch.com/en/legal/privacy-notice/
+https://www.roblox.com/info/privacy
+https://ninjakiwi.com/privacy_policy_battles2plus
+
+# Retail, Food & Gig Services
+https://www.temu.com/privacy-policy.html
+https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html
+https://corporate.walmart.com/privacy-security/walmart-privacy-notice
+https://www.chipotle.com/privacy-policy
+https://www.airbnb.com/help/article/2855
+https://help.doordash.com/consumers/s/privacy-policy-us
+https://about.doordash.com/en-us/privacy
+https://www.instacart.com/privacy
+https://www.uber.com/global/en/privacy-notice-riders-order-recipients/
+https://www.lyft.com/privacy
+
+# Health, Fitness & Wellness
+https://www.hims.com/privacy-policy
+https://support.goodrx.com/hc/en-us/articles/4411678336539-California-Consumer-Privacy-Notice
+https://www.myfitnesspal.com/privacy-policy
+https://www.betterhelp.com/privacy/
+https://www.noom.com/noom-privacy-policy/
+https://www.headspace.com/privacy-policy
+https://www.calm.com/privacy-policy
+https://privacy.alltrails.com/policies/en-US
+
+# Finance & Fintech
+https://www.plaid.com/legal/#privacy-statement
+https://www.plaid.llc/privacy-policy.html
+https://www.sofi.com/privacy-policies/
+https://www.privacy.com/privacy-policy
+
+# Productivity & Creative Software
+https://www.notion.com/help/privacy
+https://www.canva.com/policies/privacy-policy/
+https://superhuman.com/legal/privacy-policy
+https://www.salesforce.com/company/legal/privacy/#privacy-statement
+https://www.instructure.com/policies/product-privacy-policy
+https://www.zoom.com/en/trust/privacy/privacy-statement/
+https://www.dropbox.com/privacy
+https://www.libreoffice.org/privacy-policy-en/
+
+# Developer Tools & Infrastructure
+https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+https://about.gitlab.com/privacy/
+https://www.cloudflare.com/privacypolicy/
+https://www.linuxfoundation.org/legal/privacy-policy
+
+# Privacy & Security Tools
+https://proton.me/mail/privacy-policy
+https://proton.me/pass/privacy-policy
+https://protonvpn.com/privacy-policy
+https://signal.org/legal/
+https://simplex.chat/privacy/
+https://tuta.com/privacy-policy
+https://kagi.com/privacy
+https://duckduckgo.com/privacy
+https://brave.com/privacy/browser/
+https://www.mozilla.org/en-US/privacy/firefox/
+https://librewolf.net/privacy-policy/
+https://www.torproject.org/about/privacy_policy/
+https://mullvad.net/en/help/privacy-policy
+https://windscribe.com/privacy
+https://bitwarden.com/privacy/
+https://www.lastpass.com/legal-center/privacy-notice
+https://standardnotes.com/privacy
+https://ente.com/privacy
+https://crypt.ee/privacy
