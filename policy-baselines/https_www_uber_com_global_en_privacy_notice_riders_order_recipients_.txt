@@ -1,4 +1,4 @@
-Last updated: March 26, 2026
+Last updated: July 13, 2026
 Uber Privacy Notice: Riders and Order Recipients
 When you use Uber, you trust us with your personal data. We’re committed to keeping that trust. That starts with helping you understand our privacy practices.
 This notice describes the personal data (“data”) we collect, how it’s used and shared, and your choices regarding this data. We recommend that you read this along with our privacy overview, which highlights key points about our privacy practices.
@@ -6,7 +6,7 @@ I. Overview
 I. Overview
 Scope
 This notice applies when you use Uber’s apps or websites to request or receive products or services, including rides or deliveries.
-This notice describes how we collect and use your data if you request or receive products or services through Uber’s apps or websites, except when you use Uber Freight or Careem Rides.
+This notice describes how we collect and use your data if you request or receive products or services through Uber’s apps or websites, except when you use Uber Freight, TrendyolGo App/website or Careem Rides.
 This notice specifically applies if you:
 - Request or receive mobility services, including rides, via your Uber account (a “Rider”).
 - Request or receive food, packages or other products and services for delivery, pickup or return, including via Uber Courier, your Uber Eats or Postmates account, or through the guest checkout features that allow you to access delivery or pickup services without creating and/or signing into your account (an “Order Recipient”).
@@ -27,7 +27,13 @@ In addition, for users in Switzerland, Uber Switzerland GmbH (Stockerstrasse 33 
 You also have the right to contact the data protection authority (“DPA”) in your country via the contact information listed here if you have concerns regarding our handling of your data.
 Kenya
 Kingdom of Saudi Arabia
-The Personal Data Protection Law (PDPL) applies to data processed within the Kingdom of Saudi Arabia. You may contact Uber here regarding Uber’s compliance with, or to request exercise of your rights under, the PDPL.
+The Saudi Personal Data Protection Law (PDPL) applies to our processing of personal data within the Kingdom of Saudi Arabia. In accordance with the PDPL, Uber Saudi Limited acts as the local representative of the data controller i.e. Uber Technologies Inc.
+You have the right to be informed, access, correct, or request the destruction of your personal data. You may also withdraw consent where applicable. Please refer to our Privacy Notice for further information about your rights.
+To exercise these rights or contact Uber’s Data Protection Officer (DPO), please click here.
+If you believe your data has been handled in violation of the PDPL, you have the right to lodge a complaint with the Saudi Data & Artificial Intelligence Authority (SDAIA) here.
+If you have any questions, comments and requests related to the Privacy Notice, you may also contact Uber by mail to:
+- Local Office: Uber Saudi Limited, Building No. 6247, Al Olaya St., Al Muruj Dist., Riyadh 12281 - 2783, Kingdom of Saudi Arabia (Short Address: RHGA6247).
+- Global HQ: Uber Technologies, Inc., 1515 3rd Street, San Francisco, CA 94158.
 Mexico
 Nigeria
 Quebec, Canada
@@ -37,6 +43,7 @@ Uber does not perform some of the data collections and uses described in this no
 Taiwan
 Please see here for information on the measures adopted by Uber when conducting cross-border data transfers in accordance with Taiwan’s Personal Data Protection Act and its relevant regulations, as well as other related information.
 Please go here for information on the Taiwan Payment Data Privacy Notice, which describes how we collect, use and share your payments related personal data.
+Türkiye
 United States
 Please go here for information regarding Uber’s privacy practices as relates to US state privacy laws, including the California Consumer Privacy Act. If you use Uber in Nevada or Washington, please go here for information regarding Uber’s practices as relates to collection and use of consumer health data under those states’ privacy laws.
 II. Data collections and uses
@@ -257,20 +264,20 @@ F. Data retention and deletion
 Uber retains your data for as long as necessary for the purposes described above. Users may request account deletion through the Uber apps and websites.
 Uber retains your data for as long as necessary for the purposes described above. Those periods vary depending on the type of data, and the purposes for which we collect and maintain it.
 For example, we retain your data:
-- for as long as you maintain your Uber account (i.e., the life of your account, or “LOA”) where it is necessary in order for Uber to provide its service. This includes account information, like your first and last name, email, phone number and payment information.
+- for as long as you maintain your Uber account (i.e., the life of your account) where it is necessary in order for Uber to provide its service. This includes account information, like your first and last name, email, phone number and payment information.
 - for 7 years from collection (unless you first delete your Uber account) if necessary for purposes of Uber’s tax, insurance, legal or regulatory requirements; subject to Uber’s legitimate interests in defending against, or asserting, legal claims; or where necessary for purposes such as research and development.
 - for only as long as required to enable specific services or features. For example, if you submit an image of your ID to verify your age for purposes of alcohol delivery where required by law, we delete such images within 48 hours unless longer retention is required by law.
 The following table lists Uber’s retention practices with respect to categories of data described above. Uber may retain data for longer, or shorter, than the periods described below where required by law.
 | Data Category | Retention Period |
 |---|---|
-| Account | LOA |
-| Communications | The sooner of LOA or 7 years |
-| Demographic | LOA |
-| Device | LOA |
+| Account | Life of account |
+| Communications | The sooner of life of account or 7 years |
+| Demographic | Life of account |
+| Device | Life of account |
 | Identity Verification | 1 year for government IDs 3 years for user-submitted selfies |
-| Location Data | The sooner of LOA or 7 years |
-| Trip/Order | The sooner of LOA or 7 years |
-| Usage Data | The sooner of LOA or 7 years |
+| Location Data | The sooner of life of account or 7 years |
+| Trip/Order | The sooner of life of account or 7 years |
+| Usage Data | The sooner of life of account or 7 years |
 Where Uber does not need to retain your data in order for Uber to provide its services, or for purposes of our tax, insurance, legal or regulatory requirements, we will delete your data once no longer necessary for the purposes for which we collected it. Such periods vary depending on the type of data, and the purposes for which we collected it. For example, we generally delete certain information that we use to display personalized marketing and advertising to you after approximately one year, if not sooner.
 You may request that we delete your account through the Privacy menus in the Uber app, or through Uber’s website (Riders and Order Recipients here; Guest Users here).
 Following an account deletion request, we delete your account and data, except as necessary for purposes of safety, security, fraud prevention or compliance with legal requirements, or because of issues relating to your account (such as an outstanding credit or an unresolved claim or dispute). For example, if you are banned from Uber’s services because of serious fraudulent or unsafe behavior, Uber will retain your data after an account deletion request to prevent you from re-obtaining access to Uber’s platform.
@@ -322,7 +329,8 @@ Uber Technologies, Inc. (“UTI”) is controller of the data processed by Uber 
 - UTI and UBR Pagos Mexico, S.A. de C.V., are controllers of the data of users of Uber’s payment and e-money services in Mexico.
 - UTI and Uber B.V. are together with Uber Payments BV joint controllers of the data of users of Uber’s payment and e-money services in the EEA, and with Uber Payments UK Ltd. for users of those services in the UK.
 - UTI and Uber B.V. are joint controllers of the data processed in connection with all other uses of Uber’s services in the EEA, UK and Switzerland.
-- UT LLC is controller of the data processed when you use Uber services in South Korea.
+- UT LLC is the controller of the data processed when you use Uber services in South Korea.
+- UTI and TYG Turkey Elektronik Ticaret Hizmetleri ve Yatırımları A.Ş. are joint controllers of the data processed when you use Uber Eats services in Türkiye.
 You may also contact Uber's Data Protection Officer at uber.com/privacy-dpo, or by mail to Uber B.V. (Burgerweeshuispad 301, 1076 HR Amsterdam, the Netherlands) regarding issues relating to Uber's processing of your personal data and your data protection rights.
 B. Our legal bases for using your data
 Depending on where you use our services, and our purpose for using your data, Uber relies on the following legal bases for processing your data:
@@ -330,7 +338,7 @@ Depending on where you use our services, and our purpose for using your data, Ub
 - Consent
 - Uber's legitimate interests
 - Legal obligation
-Data protection laws in some countries and areas, including the EEA, UK, Switzerland, Brazil and Nigeria, only allow Uber to use your data when certain circumstances defined under those laws apply. This is called having a “legal basis” for using your data. The applicability of these legal bases may depend on your location. The chart below indicates the legal bases that Uber has under those laws when they do apply, and it uses your data for the purposes described in this notice.
+Data protection laws in some countries and areas, including the EEA, UK, Switzerland, Brazil, Türkiye and Nigeria, only allow Uber to use your data when certain circumstances defined under those laws apply. This is called having a “legal basis” for using your data. The applicability of these legal bases may depend on your location. The chart below indicates the legal bases that Uber has under those laws when they do apply, and it uses your data for the purposes described in this notice.
 | Legal basis | Description | Data uses |
 |---|---|---|
 | Contract | When you set up your Uber account and/or request a ride or delivery from Uber, we are entering into a contract defined by our terms and conditions to provide you those services. This legal basis applies when we must use your data in order to provide the services you request and meet our responsibilities under that contract. |

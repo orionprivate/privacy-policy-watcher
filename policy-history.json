@@ -6,5 +6,45 @@
   "level": 2,
   "categories": [],
   "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-07-20",
+  "name": "Meta (Facebook, printable)",
+  "url": "https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-07-20",
+  "name": "TikTok",
+  "url": "https://www.tiktok.com/legal/page/us/privacy-policy/en",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-07-20",
+  "name": "Airbnb",
+  "url": "https://www.airbnb.com/help/article/2855",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-07-20",
+  "name": "Uber (riders)",
+  "url": "https://www.uber.com/global/en/privacy-notice-riders-order-recipients/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-07-20",
+  "name": "Instructure (Canvas)",
+  "url": "https://www.instructure.com/policies/product-privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
  }
 ]
