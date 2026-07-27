@@ -4,7 +4,16 @@ Substantive changes (L1 and above) recorded by Policy Watch, newest first within
 
 ## Airbnb
 
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
 - 2026-07-20 (L2): Classifier failed. Raw change preserved in the evidence file.
+
+## DuckDuckGo
+
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
+
+## GitLab
+
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
 
 ## Instructure (Canvas)
 
@@ -12,8 +21,13 @@ Substantive changes (L1 and above) recorded by Policy Watch, newest first within
 
 ## Meta (Facebook, printable)
 
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
 - 2026-07-20 (L2): Classifier failed. Raw change preserved in the evidence file.
 - 2026-07-13 (L2): Classifier failed. Raw change preserved in the evidence file.
+
+## Perplexity
+
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
 
 ## TikTok
 
@@ -21,4 +35,5 @@ Substantive changes (L1 and above) recorded by Policy Watch, newest first within
 
 ## Uber (riders)
 
+- 2026-07-27 (L2): Classifier failed. Raw change preserved in the evidence file.
 - 2026-07-20 (L2): Classifier failed. Raw change preserved in the evidence file.
