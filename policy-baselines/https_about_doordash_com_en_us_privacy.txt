@@ -19,6 +19,7 @@ DoorDash and Caviar Consumer mobile app users:
 - Tap on the field you would like to update and edit accordingly
 - Click the “Save” button in the top right corner.
 - 2 step verification may be required.
+Example Video
 DoorDash and Caviar Desktop users:
 - Log in to your account on the website
 - Open the menu in the upper left corner
@@ -35,6 +36,7 @@ DoorDash and Caviar Consumer mobile app users:
 - You will have to complete a 2 step verification process here. This verification process protects your privacy and helps ensure we only honor requests from individuals in relation to their personal information.
 - Once verified, it should take you to the ‘Manage Account’ page. Here, under ‘Account Data’, click ‘Request Archive’.
 - You will see a confirmation screen and will receive an email once your archive is ready to download.
+Example Video
 Desktop users:
 - For DoorDash, you can exercise this right by clicking here.
 - For Caviar you can exercise this right by clicking here.
@@ -47,23 +49,28 @@ DoorDash and Caviar Consumer mobile app users:
 - Under ‘Marketing Choices’, click the gray ‘Learn More’ button
 - In the 'Disclosing Data to Our Advertising Partners' screen, toggle the ‘Ad Personalization’ button to off
 - Click the ‘X’ close button on the top left of the screen
+Example Video
 Desktop users:
 - For DoorDash, you can exercise this right by clicking here.
 - For Caviar you can exercise this right by clicking here.
 You may also scroll to the bottom of the home site and click the “Do Not Sell or Share My Personal Information” link and follow the instructions on the page. If you change your mind, you can opt-in using the same path.
 For desktop users, there are two options; the first option is for logged-in account-holders that allows users to toggle off ad personalization and the second option is for individuals who are not account holders that provides a browser-level opt-out.
 SMS Preferences:
-- In the mobile app, - Select Account and scroll down to Account Settings
+- In the mobile app,
+- Select Account and scroll down to Account Settings
 - Select Notifications
 - Select Order Updates
 - Slide the SMS toggle on or off to get or stop receiving order updates by text message.
-- On the website, - Select Account
+Example Video
+- On the website,
+- Select Account
 - Check the box under the Profile section to receive order status updates via text, and uncheck the box to stop.
 You may also opt out of receiving text messages to your phone number by responding STOP to any message received from DoorDash.
 DoorDash and Caviar Consumer mobile app notifications:
 - Select Account and scroll down to Account Settings
 - Select Notifications
 - Select the notifications you would like to turn off and slide the toggle to turn off, for e.g., select and turn off Store Offers, DoorDash Offers and Recommendations.
+Example Video
 Email Preferences:
 - Promotional emails include an opt-out option at the bottom of the email, select Unsubscribe.
 - Select to turn off your preferred choices (i.e., DoorDash Offers, Store Offers, Recommendations, etc):
@@ -74,6 +81,7 @@ DoorDash and Caviar mobile app users:
 - Under ‘Location Access’, click the arrow ‘>’ next to the current choice
 - You will be taken to the app settings screen. Here, click the ‘Location’ button.
 - Select the option to allow location access as desired. You will also have the choice to turn off precise location sharing
+Example Video
 The right of deletion provides an individual with the opportunity to request the deletion of their personal information. Although the right of deletion may differ from jurisdiction to jurisdiction, DoorDash offers this right to all consumers, in compliance with applicable law and legal obligations. To exercise this right, please follow the instructions below:
 DoorDash and Caviar Consumer mobile app users:
 - Open the consumer app from your phone
@@ -83,6 +91,7 @@ DoorDash and Caviar Consumer mobile app users:
 - You may have to complete a 2 step verification process here. This verification process protects your privacy and ensures we only honor requests from individuals in relation to their own personal information.
 - Once verified, it should take you to the ‘Manage Account’ page. Here, under ‘Account Data’, click ‘Delete Account’.
 - A 2 step verification will be required here to confirm deletion of your account.
+Example Video
 Desktop users:
 Frequently Asked Questions
 Dashers can only see information related to the order they are delivering, they do not have access to consumers’ personal information, except for what is necessary for them to fulfill the delivery (i.e., the address for the delivery, first name and last initial to confirm identity while picking up and dropping off the order, and any delivery instructions). A Dasher will also see a masked telephone number they can use to reach you.

@@ -40,30 +40,18 @@ TLF uses the personal information we collect for our legitimate business interes
 - Prevent Misuse. Where we believe necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person or violations of the relevant Terms or this Privacy Policy.
 Purposes and Legal Bases
 | Purposes of Processing(see above) | Legal Bases of Processing (EU Users) |
-| Providing our Sites and Services, including through LFX |
-|
-| Operating our Open Source Projects |
-|
-| TLF Internship and Employment Applications |
-|
-| Event Administration |
-|
-| Offer Training and Certification Programs |
-|
-| Personalization |
-|
-| Marketing and Promotions |
-|
-| Advertising |
-|
-| Analytics |
-|
-| Compliance |
-|
-| Business and Legal Operations |
-|
-| Prevent Misuse |
-|
+| Providing our Sites and Services, including through LFX | |
+| Operating our Open Source Projects | |
+| TLF Internship and Employment Applications | |
+| Event Administration | |
+| Offer Training and Certification Programs | |
+| Personalization | |
+| Marketing and Promotions | |
+| Advertising | |
+| Analytics | |
+| Compliance | |
+| Business and Legal Operations | |
+| Prevent Misuse | |
 Sharing of Personal Information
 We disclose personal information as set forth below, and where individuals have otherwise consented:
 - Publicly Available Information, including Your Contributions to Open Source Projects. User names, other user ids, email addresses and other attribution and affiliation information related to the information and contributions that a User posts in conjunction with or subject to an Open Source license are publicly available in the relevant Project source code repositories. Your contributions to Open Source Projects, and certain of your other Content such as comments and messages posted to public forums, are available to other participants and users of our Projects and of our Services, and may be viewed publicly. In some cases you may be able to provide Project or contribution-related information directly to third-party sites and services; these third parties are independent data controllers and their use of your personal information is subject to their own policies.

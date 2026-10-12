@@ -17,7 +17,8 @@ Personal Information We Collect
 We may collect personal information directly from you, automatically through your use of the Services, and from third-parties.
 Personal Information We Collect Directly from You
 - Account and Profile Information. This includes your name, email address, general location information (country/zip code), profile image or photo (if you choose to provide one), username and password, date of birth, and sex.
-- Food and Activity Diary Data. Certain features of our Services allow you to voluntarily share information about your dietary habits and activities you engage in. This includes your: - Dietary habits;
+- Food and Activity Diary Data. Certain features of our Services allow you to voluntarily share information about your dietary habits and activities you engage in. This includes your:
+- Dietary habits;
 - Food, drink, and medications you consume (including as submitted via voice logging) and purchase (via our grocery integrations);
 - Calorie count;
 - Dietary restrictions;
@@ -125,13 +126,15 @@ Depending on where you live, the laws of your country, state, or province may ha
 - Right to Access and Data Portability. The right to confirm whether we are processing your personal information, who we share it with, and to access or obtain a copy of your personal information in a portable and, to the extent technically feasible, readily usable format.
 - Right to Deletion. The right to request that we delete your personal information (subject to certain exceptions prescribed by applicable law).
 - Right to Correction. The right to request that we correct inaccuracies in your personal information, taking into account the nature of the information and purpose(s) for which we are processing it.
-- Right to limit or opt-out of certain types of processing. This includes: - the “sale” of your personal information. Please note that while MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws. Please see Managing your Marketing and Personalized Advertising Preferences section for more information about how to exercise your right;
+- Right to limit or opt-out of certain types of processing. This includes:
+- the “sale” of your personal information. Please note that while MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws. Please see Managing your Marketing and Personalized Advertising Preferences section for more information about how to exercise your right;
 - the processing of your personal information for “profiling” and “targeted advertising” purposes; and
 - certain forms of “profiling” (in each case, as these terms are defined in applicable law).
 - Right to opt-in to processing of sensitive information. Some states offer its residents the right to opt-in to the use of sensitive information. In this scenario, this means we cannot use sensitive information (outside of the provision of our Services) without your consent.
 - Right against discrimination. We will not discriminate against you if you decide to exercise your legal rights.
 - Right to appeal decisions. You may have a right to appeal a decision on a privacy rights request. To appeal such a decision, please submit your request to privacy@myfitnesspal.com with “APPEAL” included in the subject line.
-- How do I exercise my rights? - MyFitnessPal Privacy Request Center. You can exercise your privacy rights by visiting our MyFitnessPal Privacy Request Center and selecting the country/region in which you reside along with the privacy rights you wish to exercise.
+- How do I exercise my rights?
+- MyFitnessPal Privacy Request Center. You can exercise your privacy rights by visiting our MyFitnessPal Privacy Request Center and selecting the country/region in which you reside along with the privacy rights you wish to exercise.
 - How do I submit a request through an authorized representative? Where legally permitted, you may submit requests through an authorized agent or representative at privacy@myfitnesspal.com. To process these requests, we will need to verify the identity of the agent and that you have authorized them to act on your behalf.
 - Questions. You can also contact our Data Protection Officer (privacy@myfitnesspal.com) if you have any inquiries or complaints regarding our processing of your personal information.
 Additional Information for Certain Jurisdictions
@@ -140,9 +143,11 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - California Consumer Privacy Act. The California Consumer Privacy Act (“CCPA“) (as amended by the California Privacy Rights Act) provides California residents with the right to receive certain disclosures regarding the collection, use, and sharing of “Personal Information,“ as well as the right to know/access, delete, and limit sharing of Personal Information. “Personal Information“ means “information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household.“ Certain information we collect may be exempt from the CCPA because it is considered public information (e.g., it is made available by a government entity) or covered by a specific federal privacy law.
 - Right to notice at collection regarding the categories of Personal Information collected
 - You have the right to receive notice of the categories of Personal Information we collect, and the purposes for which those categories of Personal Information will be used.
-- Category of Personal Information - Required Information - Personal Identifiers - We may collect names, email addresses, phone numbers, postal addresses, account names, online identifiers, IP addresses, and other similar identifiers. - Source:
+- Category of Personal Information Required Information Personal Identifiers We may collect names, email addresses, phone numbers, postal addresses, account names, online identifiers, IP addresses, and other similar identifiers.
+- Source:
 - Our users (directly and automatically)
-- Third parties - Business partners;
+- Third parties
+- Business partners;
 - Service providers;
 - Other MyFitnessPal users;
 - Analytics providers; and
@@ -158,7 +163,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - While MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws.
-- Protected classification characteristics - We may collect protected classification characteristics under California law or federal law, including age (over 40) and sex/gender expression. - Source:
+Protected classification characteristics We may collect protected classification characteristics under California law or federal law, including age (over 40) and sex/gender expression.
+- Source:
 - Our users (directly)
 - Purpose of Collection and Use:
 - Business purpose
@@ -168,7 +174,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - N/A
-- Commercial Information - We may collect records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. - Source:
+Commercial Information We may collect records of products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+- Source:
 - Our users (directly and automatically)
 - Third parties
 - Purpose of Collection and Use:
@@ -181,7 +188,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - While MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws.
-- Internet or other electronic network activity information - This may include browsing history, search history, and information regarding interactions with the Services and advertisements. - Source:
+Internet or other electronic network activity information This may include browsing history, search history, and information regarding interactions with the Services and advertisements.
+- Source:
 - Our users (directly and automatically)
 - Third parties
 - Purpose of Collection and Use:
@@ -194,7 +202,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - While MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws.
-- Geolocation data - Such as IP address, country in which you reside, and zip code. MyFitnessPal does not collect specific geolocation information. - Source:
+Geolocation data Such as IP address, country in which you reside, and zip code. MyFitnessPal does not collect specific geolocation information.
+- Source:
 - Our users (directly and automatically)
 - Purpose of Collection and Use:
 - Business purpose
@@ -206,7 +215,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - While MyFitnessPal does not expressly “sell” information to others, certain uses of Functional Cookies and/or Targeted Advertising Cookies on our website to collect, use, and disclose information may constitute “sales” or “sharing” of personal information or the use of personal information for “targeted advertising” purposes under applicable privacy laws.
-- Audio, electronic, visual, or similar information - This may include audio input logging, profile images/photos, and progress photos. - Source:
+Audio, electronic, visual, or similar information This may include audio input logging, profile images/photos, and progress photos.
+- Source:
 - Our users (directly and automatically)
 - Third parties
 - Service providers
@@ -217,7 +227,8 @@ Residents of certain jurisdictions have additional rights under applicable laws,
 - Has this information been shared with these parties within the last 12 months? Yes.
 - Categories of Parties to whom the Information may be Sold:
 - N/A
-- Inferences drawn from other personal information - This may include inferences drawn from any of the information in the above-listed categories reflecting individuals’ preferences, characteristics, behaviors, attitudes, abilities, and aptitudes. - Source:
+Inferences drawn from other personal information This may include inferences drawn from any of the information in the above-listed categories reflecting individuals’ preferences, characteristics, behaviors, attitudes, abilities, and aptitudes.
+- Source:
 - Our users (directly and automatically)
 - Business partners
 - Service providers
@@ -265,36 +276,26 @@ How to exercise your rights
 You can submit a request through our MyFitnessPal Privacy Request Center. You can also contact our Data Protection Officer or EEA Representative if you have any inquiries or complaints regarding our processing of your personal information. In order to protect your privacy and confirm that you are entitled to exercise the above-listed rights, we may need to request specific information from you to help us confirm your identity. Where applicable, we will use the requested information for verification purposes only and only in the event of reasonable doubts concerning your identity.
 How to lodge a complaint
 If you consider that the processing of your personal information violates applicable data protection laws, you also have the right to lodge a complaint about our processing of your personal information or our handling of your rights request with the appropriate data protection regulator, i.e. the data protection regulator located where you reside, at your place of work or at the place of the alleged infringement (see the links below).
+- EU Data Protection Authorities
+- Swiss Data Protection Authority (Federal Data Protection and Information Commissioner)
+- UK Data Protection Authority (Information Commissioner’s Office)
 Lawful Bases for Processing Personal Information. Applicable data protection laws require us to set out the lawful basis that we rely on to collect and process personal information.
 Here is a list of the lawful basis that we rely on for each of our processing activities (please note this supplements the descriptions found in the How We Use Personal Information section above.
 | Processing Activity | Lawful Basis for Processing Personal Information |
 |---|---|
-| Provide and Manage the Services |
-|
-| Conduct Research and Analytics |
-|
-| Communicate with You |
-|
-| Send You Promotional and Marketing Materials |
-|
-| Enhance and Personalize the Services |
-|
-| Engage in Interest-Based Advertising |
-|
-| Plan and Manage Events |
-|
-| Maintain Security and Protect Rights |
-|
-| Respond to requests and communications from law enforcement authorities or other government officials. |
-|
-| Respond to your requests to exercise your rights |
-|
-| Manage pre-litigation or litigation matters |
-|
-| Carry Out Internal Operations |
-|
-| Carry Out Sales and Business Transactions |
-|
+| Provide and Manage the Services | |
+| Conduct Research and Analytics | |
+| Communicate with You | |
+| Send You Promotional and Marketing Materials | |
+| Enhance and Personalize the Services | |
+| Engage in Interest-Based Advertising | |
+| Plan and Manage Events | |
+| Maintain Security and Protect Rights | |
+| Respond to requests and communications from law enforcement authorities or other government officials. | |
+| Respond to your requests to exercise your rights | |
+| Manage pre-litigation or litigation matters | |
+| Carry Out Internal Operations | |
+| Carry Out Sales and Business Transactions | |
 Information Retention. We will retain your personal information for as long as is necessary for the purposes set out in this Policy, including to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable law or court orders), resolve disputes, and enforce our legal agreements and policies.
 International Transfers of Personal Information. Your personal information may be transferred to countries outside of the EEA, Switzerland, and the UK, including the United States to companies that are not certified under the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. We have put in place adequate measures, and where necessary, we have implemented additional contractual, organizational and technical measures to protect your personal information. You can obtain a copy of these measures by contacting our DPO or EEA Representative.
 Processing of Personal Information. You are generally not obliged to provide your personal information, but we may be unable to provide certain services to you if you refuse to disclose certain personal information.

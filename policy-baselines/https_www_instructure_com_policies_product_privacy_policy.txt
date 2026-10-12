@@ -1,82 +1,30 @@
+Instructure
+Product Privacy Notice
+Effective Date: July 10, 2026
+Introduction.
 Instructure, Inc. and its affiliates and subsidiaries (“Instructure,” “we,” “our,” or “us”) prepared this Product Privacy Notice (“Notice”) to describe our privacy practices. This Notice governs information collected and processed by our products and services (collectively, “Products”), including the products listed here: https://www.instructure.com/product/all-products.
-About our Users and our Products.
+- About our Users and our Products.
 How we use information collected about you depends on our relationship with you. We provide our Products to Academic Institutions (such as K-12 schools and higher education institutions) and companies that use our Products to amplify teaching, elevate learning, provide professional development opportunities, and improve student outcomes.
 If you use our Products through an Academic Institution or company, that school or company determines how the personal information collected about you is used. This means that your Academic Institution or company’s privacy notice governs the use of the personal information collected about you. This Notice is intended to provide transparency related to Instructure’s privacy practices only.
 We have provided the following summary to help you understand what we do with the information we process through our Products and the relationship between our users and Products.
-Canvas LMS is used by academic institutions, educators, and parents to enable and personalize learning, deliver instruction and content, facilitate collaboration and feedback, and provide visibility into students’ academic work.
-Canvas Studio is used by educators and students to create and submit video content.
-Canvas Catalog provides Academic Institutions with an online marketplace to showcase and sell courses, programs, and certifications.
-Canvas Student ePortfolios is used by students to showcase their achievements to potential employers and fellow students, and connect with other users, such as employers, professionals, and other students.
-Canvas Certified Educator Program is used to learn best practices for teaching with Canvas.
-Canvas Career is used by employees, businesses, governments, and continuing education organizations to create learning programs, track progress, and measure impact and return on investment.
-Mastery
-Mastery Connect, Mastery Item Bank, Mastery Item Bank Supplemental, Mastery College Prep Assessments, Mastery View Predictive Assessments, Mastery Predictive Assessments, Mastery View Formative Assessments
-K-12, For Our Partners
-Educators, School Districts
-Mastery Connect is used by educators to assess their students and plan curriculum.
-Mastery Item Bank is used by educators to access a large library of rigorously vetted, standards-aligned assessment items, enabling them to create accurate, fair, and instructionally relevant assessments.
-Mastery Item Bank Supplemental is used by educators to access additional rigorous, standards-aligned items that support the creation of targeted follow-up formative assessments alongside existing Mastery tools.
-Mastery College Prep Assessments is used by school districts to prepare students for the ACT by providing ACT-aligned practice with realistic structure, timely feedback, and diagnostic data to monitor progress and support college and career readiness.
-Mastery View Predictive Assessments are used by educators to measure academic progress and generate timely data that informs instruction, supports targeted interventions, and enables personalized learning.
-Mastery Predictive Assessments are used by educators to measure student progress and predict end-of-year performance on state summative assessments through rigorous, standards-aligned benchmark assessments.
-Mastery View Formative Assessments are used by educators to more effectively meet student learning needs by offering a real-time actionable view into mastery of standards.
-LearnPlatform
-LearnPlatform EdTech Effectiveness, LearnPlatform SEA, LearnPlatform Evidence as a Service
-K-12, For Our Partners
-Academic Institutions, State Educational Agencies, School Districts, Technology Providers
-EdTech Effectiveness is used by K–12 schools to track and evaluate edtech usage, ensure compliance, and optimize their technology investments.
-LearnPlatform EaaS (Evidence as a Service) is used by edtech providers to generate high-quality, third-party research that demonstrates impact and supports adoption.
-LearnPlatform SEA is used by state and regional education agencies to aggregate district edtech data, improve compliance, and streamline communication around tools.
-Elevate
-Elevate K-12 Analytics, Elevate Data Quality, Elevate Standards Alignment, Elevate Data Sync
-Elevate K-12 Analytics is used by Academic Institutions to provide integrated data, so they understand what is affecting student success.
-Elevate Data Quality is used by Academic Institutions to ensure their data is up-to-date and accurate.
-Elevate Standards Alignment is used by educators to tag, align, and manage content.
-Elevate Data Sync is used by Academic Institutions and Technology Providers to share learning data between applications.
-Impact
-Impact
-K-12, Higher Education, Business and Government
-Academic Institutions
-Impact is used by academic institutions to evaluate the effectiveness of technology on student engagement and outcomes and to inform district-wide technology adoption decisions.
-Information Collection.
+- Information Collection.
 Now that you know about our Products, we want to tell you about the information our Products collect and process, which may include the following:
-Category
-Information that may be collected
-When it is collected
-Personal Information
-First and last name; gender or preferred pronouns; email address; academic institution or company; username and password; geographic information such as location; profile information such as a short bio or profile photo; phone or mobile number; payment card information (Canvas Catalog only); imported profile information from third-party websites if you choose to register or log in with those credentials; information from academic institutions to register your profile, such as student ID number; content from in-application messages or discussion group comments; date of birth (Portfolium, Mastery Connect, and Elevate only); submitted content such as research papers or class assignments; data types described in the Ed-Fi Data Standard (Elevate only); subject- and grade-level interests; student demographic information; student achievement data used to produce evidence-based reports and dashboards on product effectiveness; video images and voice recordings
-When you create or use an account; when an academic institution creates an account for you; when you import information from third-party websites or sources such as social media; when another academic institution, company, or user invites you to join a product; and when an academic institution transfers information from student information systems or other institutional systems into the products
-Product Usage Information
-Your interactions with other users, including messages, comments, and uploaded files; product performance information, such as how you use certain features; descriptions, images, hashtags, and other information associated with uploaded content; and usage details such as time spent using features and the date and time of visits
-When you use the products, information is collected about how you use them
-Communications and Other Interactions with Us and Other Users
-Information you submit in communications and interactions, including contact information, email or chat content, reviews, and other content posted on the products
-When you request help desk assistance; use chatbot features; provide feedback; sign up for or attend a conference, webinar, or other Instructure event; participate in surveys or contests; post a review or other content; or otherwise communicate or interact with us
-Device Information
-Browser type, language, settings, and preferences; device type; operating system; location information such as country or state; persistent identifiers; IP address; domain name; unique device identifiers; and other information collected through cookies and similar technology
-Automatically collected each time you use the products on a device
-Professional Information
-Career and professional achievement information, such as information required by an employer, which may include personal information like a resume; job descriptions and requirements; and information such as a customer relationship management ID, manager or leader name, job title, and department
-For example, when you apply for a job posted on student ePortfolios and activate an account created by your academic institution; also collected on Canvas Career
-Log Files
-IP address; device type; operating system; browser type; usage data; general location data; identifiers
-Automatically collected each time you use the products on a device
-Our Use of Your Information.
+- Our Use of Your Information.
 Now that you’ve learned about the information we process, let’s go over what we do with it.
 Please note that if we process personal information we collect for a purpose other than the purpose for which it was collected, we will provide you with notice in advance of the new processing and obtain consent if required. We limit our collection and use of personal information to those elements required to operate our Products, or as otherwise disclosed in this Privacy Notice. We do not engage in automatic decision making, advertising to students, or profiling.
 To provide, analyze, and improve our Products. We use the information described above to provide, analyze, and improve our Products, including to:
-Create and maintain your account.
-Identify you as a user.
-Notate and assign support tickets.
-Provide, operate, maintain, and improve our Products.
-Personalize and improve your experience.
-Contact you and communicate with you, including to respond to your comments or inquiries.
-Provide customer support.
-Solicit feedback about our Products, including by asking you to respond to surveys or questionnaires (with your permission).
+- Create and maintain your account.
+- Identify you as a user.
+- Notate and assign support tickets.
+- Provide, operate, maintain, and improve our Products.
+- Personalize and improve your experience.
+- Contact you and communicate with you, including to respond to your comments or inquiries.
+- Provide customer support.
+- Solicit feedback about our Products, including by asking you to respond to surveys or questionnaires (with your permission).
 De-identified or aggregate use. We may create and use de-identified or aggregate information, that is information removed of specific identifiers so that it cannot singly identify you (i.e., non-personal information) for any purpose.
 Troubleshooting, security and fraud detection, and performance monitoring. We use information captured in log files for these purposes. Instructure owns the security logs maintained for its Products and acts as a controller of information contained in such logs.
 We may offer interactive features, including the ability to submit reviews that are posted on our platforms for others to see and use, engage with AI-powered chatbots and other tools that provide customer and/or user support or to interact with a translation tool to help us communicate in your preferred language. If you disclose information through an interactive feature, this information can be viewed, collected, recorded, and used by others, including other users or any vendors that power the feature. For more information about our use of AI tools, please see our Artificial Intelligence Privacy Notice.
-Disclosure of Information.
+- Disclosure of Information.
 Now we will review how we share or disclose information, including personal information.
 A. Instructure’s Disclosure of Information.
 Instructure may share information, including with the following recipients:
@@ -84,9 +32,10 @@ Commonly owned entities. We may share information collected about you with compa
 Third-party service providers. We may share personal information collected about you with authorized third-party service providers for the sole purpose of providing you with our Products. We do not permit our third-party service providers to use personal information we share with them for their own advertising or marketing purposes, or for any other purpose other than in connection with the services they provide to Instructure. Additionally, we do not sell or rent personal information to third parties.
 Google APIs. Our use of information received from Google APIs will adhere to Google's Limited Use Requirements. Our Product’s use and transfer to any other application of information received from Google APIs will adhere to Google API Services User Data Policy(opens in a new tab), including the Limited Use requirements.
 As required by law. In certain circumstances, we may be required to disclose information, including personal information, in order to:
-Comply with legal or regulatory processes (such as a judicial proceeding, court order, or government inquiry).
-Respond to claims that any content violates the rights of third parties.
-Protect the rights, property, or personal safety of Instructure, its employees, its users, its clients, and the public.
+- Comply with legal or regulatory processes (such as a judicial proceeding, court order, or government inquiry).
+- Enforce the Instructure Acceptable Use Policy and other applicable policies.
+- Respond to claims that any content violates the rights of third parties.
+- Protect the rights, property, or personal safety of Instructure, its employees, its users, its clients, and the public.
 Change of Control. We may share information about you in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company. In the event that information is shared in this manner, notice will be posted on our website at www.instructure.com.
 With your consent or at your direction. We may share information other than as described in this Privacy Notice with your consent, or at your specific direction, for example, if you choose to use the Products with social networking platforms (e.g., Facebook, YouTube, Twitter, etc.).
 De-identified or aggregate use. We may share de-identified or aggregate information, that is information removed of specific identifiers so that it cannot singly identify you (i.e., non-personal information) for any purpose without limitation, unless prohibited by applicable law.
@@ -94,30 +43,30 @@ B. Disclosure of Information through Instructure’s Products.
 Our Products have features that share information (including personal information) with authorized third parties or that allow you to share information with third parties or the public. These disclosures are described below.
 Academic Institutions, course providers, or parents. We may share personal information collected about you with the Academic Institution or company which is linked to your use of our Products. Where permitted, we may also share information with relevant parties associated with the Academic Institution, such as educators or fellow students, or parents of students using our Products or fellow users.
 For example, this would apply:
-If your Academic Institution uses our Products as a learning management platform and has given you access to the Products; or
-If you are taking a course via the Products, we will share personal information you provided upon account registration and coursework registration with the educator and/or Academic Institution
+- If your Academic Institution uses our Products as a learning management platform and has given you access to the Products; or
+- If you are taking a course via the Products, we will share personal information you provided upon account registration and coursework registration with the educator and/or Academic Institution
 Other Third Parties or Users. You may choose to share information through our Products, with other users of the Products or the public when you post content or otherwise provide information about yourself. We are not responsible for others’ use of the available information, so you should carefully consider whether and what to post or how you identify yourself.
 With your consent or at your direction. As noted, we may share information other than as described in this Privacy Notice with your consent, or at your specific direction, for example, if you choose to use the Products with social networking platforms (e.g., Facebook, YouTube, Twitter, etc.).
 YouTube API: Our Product integration with the YouTube API Service allows our customers to utilize certain YouTube services directly in our Products. For example, educators and students can search publicly available YouTube videos, and embed videos into course materials. These services are only available if enabled by your Academic Institution. The YouTube API Service does not process any of your personal information. For more information about the YouTube API Service, please refer to YouTube’s Terms of Service (opens in a new tab). You can learn more about how YouTube uses your personal information in the Google Privacy Policy (opens in a new tab).
-Children’s Privacy.
+- Children’s Privacy.
 For users of Canvas LMS and the Mastery suite of products, we may take steps intended to comply with the Children's Online Privacy Protection Act (“COPPA”). Please see our Children’s Online Privacy Protection Act Privacy Notice.
 Except for authorized users of Canvas LMS, Canvas Studio, Canvas Student Pathways, or the suite of Mastery products, if you learn that a child under thirteen years of age has provided us with personal information, please alert us at privacy@instructure.com.
-Your Decisions About Information Collected by Us.
+- Your Decisions About Information Collected by Us.
 We provide you with several ways to control information collected from you.
 Parents and Academic Institutions. Parents and educators may review information collected from children, request deletion of this information, or request no further collection or use of this information by contacting us at privacy@instructure.com or submitting a help desk ticket through our Products.
 Account Information. You may change some personal information by editing your Product profile. You may also request that we modify or delete information by emailing us at privacy@instructure.com or submitting a help desk ticket through our Products. We will respond to your request, when permitted by law and subject to exceptions, within 30 days. We may be unable to delete information that resides in our archives.
 Push Notifications. If you would like to stop receiving push notifications, please use the settings on your mobile device to opt out. Please note that opting out of receiving push notifications may impact your use of our Products (such as receiving a notification that you have a new message). Please note that the opt-out process differs depending on the mobile device you are using.
 Location. Some Products may collect precise location information about your mobile device, but only with your consent. If you wish to revoke permission to collect precise location information, you can change the location settings on your mobile device.
 If you require access to personal information not otherwise available through any of the mechanisms described above, please contact us at privacy@instructure.com or submit a help desk ticket through our Products.
-Other Important Information.
+- Other Important Information.
 Third-Party Websites. Our Products may contain links to third-party websites or services that allow you to leave our Products and go to another website when you click on such a link. Personal information may be collected by those separate entities. We have no control over, do not review, and cannot be responsible for these outside websites or their content.
 Please be aware that the terms of this Privacy Notice do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites. The links to third-party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content, or websites.
-Security
+- Security
 Instructure takes reasonable steps to help protect personal information collected about you in an effort to prevent unauthorized access, use, or disclosure.
 You can find more details about our security program by visiting our security webpage at https://www.instructure.com/trust-center and reviewing our Security and Due Diligence Documents.
 Despite these measures, you should know that we cannot fully eliminate security risks associated with personal information. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee absolute security. Any content you post or input you provide while using our Products is at your own risk.
 Please be aware that the personal information we collect may be transferred to and maintained on servers or databases located outside your county, and personal information may be accessible to law enforcement and national security authorities in those jurisdictions.
-Data Privacy Framework.
+- Data Privacy Framework.
 Instructure (which includes Parchment) complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Instructure and Parchment have certified to the U.S. Department of Commerce that they adhere to the EU-U.S. Data Privacy Framework Principles (“EU-U.S. DPF Principles”) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Instructure has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (“Swiss-U.S. DPF Principles”) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit https://www.dataprivacyframework.gov/(opens in a new tab).
 Instructure (which includes Parchment) commits to subject to the DPF Principles all personal data received from the EU, UK, and Switzerland in reliance on the relevant DPF.
 Instructure is accountable for the processing of personal data it receives under the EU-U.S. DPF Principles, the UK extension to the EU-US DPF Principles, and the Swiss-U.S. DPF Principles (collectively, “DPF Principles”) and subsequently transfers to a third party. Instructure complies with the DPF Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions. The Federal Trade Commission has jurisdiction over Instructure’s compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
@@ -125,18 +74,20 @@ Instructure may be required to disclose personal data in response to law request
 Residents of the EU, UK, and Switzerland have the right to access the personal data that Instructure maintains, and in some cases, have choices to limit the use and disclosure of personal data. These rights are described more fully in Product Privacy Policy: the Your Rights section of the European Union Region Product Privacy Notice Addendum. To exercise these rights, contact us at privacy@instructure.com.
 In compliance with the EU-U.S. DPF, UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Instructure commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss, individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Instructure as described in the “Contact Information” in Section 10 below.
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Instructure commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit https://feedback-form.truste.com/watchdog/request(opens in a new tab) for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. Under certain conditions, more fully described on the DPF website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
-Contact Us
+- Contact Us
 Instructure welcomes your comments or questions regarding this Privacy Notice. Please email us at privacy@instructure.com, or contact us at the following address, or phone number.
 Instructure, Inc.
 6330 S 3000 E, Suite 700
 Salt Lake City, UT 84121
 United States of America
 Phone: +1 (800) 203-6755
-Instructure Global Ltd.
-Birchin Court, 5th Floor
-19-25 Birchin Lane
-London EC3V 9DU
-United Kingdom
+Instructure Global Ltd. 
+Birchin Court, 5th Floor 
+19-25 Birchin Lane 
+London EC3V 9DU 
+United Kingdom 
 To contact our Data Protection Officer, please use the following email address privacy@instructure.com
-Changes to this Privacy Notice.
+- Changes to this Privacy Notice.
 We may change this Privacy Notice from time to time. If we make any changes to this Notice, we will change the “Effective Date” above. If such changes are material, a notice of the changes will be posted along with the revised Privacy Notice. We encourage you to visit this page from time to time for the latest on our privacy practices.
+Previous Versions
+Access the previous version of our Product Privacy Notice.

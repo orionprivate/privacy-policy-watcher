@@ -3,7 +3,8 @@ FOR HUMANS
 We take pride in being a security & privacy service accessible to everyone. So we have a simplified and easy to read version of our policy.
 Below we will clarify how your data will be used, and the steps we took to protect it. By using Cryptee, you consent to the terms outlined in this policy.
 FOR LAWYERS
-In the following policy, Cryptee or Crypt.ee refers to the service offered by Svartlab OÃ (the "Company" or "We") through the crypt.ee website (the "Service"). This Privacy Policy explains (i) what information we collect through your access and use of our Service (ii) the use we make of such information; and (iii) the security level we provide for protecting such information. By visiting crypt.ee and using the Services provided here, you consent to the terms outlined in this privacy policy. LEGAL
+In the following policy, Cryptee or Crypt.ee refers to the service offered by Svartlab OÃ (the "Company" or "We") through the crypt.ee website (the "Service"). This Privacy Policy explains (i) what information we collect through your access and use of our Service (ii) the use we make of such information; and (iii) the security level we provide for protecting such information. By visiting crypt.ee and using the Services provided here, you consent to the terms outlined in this privacy policy.
+LEGAL
 FRAMEWORK
 hello. we're from estonia.
 The Company is domiciled in Estonia, and thus governed by the laws and regulations of Estonia.

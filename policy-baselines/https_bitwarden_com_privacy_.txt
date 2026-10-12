@@ -1,5 +1,11 @@
 Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom in reliance on the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.
 If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit https://www.dataprivacyframework.gov/
+- Notice
+- Data Integrity and Purpose Limitation
+- Choice; Access
+- Accountability and Onward Transfer
+- Recourse and Enforcement
+- Security
 Bitwarden provides this Privacy Policy to describe the ways we collect, use, transfer, store, secure and protect Personal Information on our Bitwarden.com website ("Site") and in connection with the Bitwarden password management solution used by customers to securely store, share, and access passwords ("Bitwarden Service"). "Personal Information" means information that personally identifies you as described in the Privacy Policy. This Privacy Policy describes the ways you can exercise your rights to access and control your Personal Information, and the complaint and recourse methods available to you.
 These are the ways that Bitwarden collects, uses, and stores Personal Information:
 Bitwarden Service
@@ -32,10 +38,12 @@ When you use the Site or communicate with us (e.g. via email) you will provide, 
 - Information gathered via cookies, pixel tags, logs, or other similar technologies.
 Use and Retention
 Bitwarden may use the Personal Information collected by the Site to provide you with services, to accomplish our business purposes and to fulfill other legal obligations, including:
-- To provide you services that you request, such as when we: - Respond to your requests for information about our products, services, training and events;
+- To provide you services that you request, such as when we:
+- Respond to your requests for information about our products, services, training and events;
 - To enable your access and use of the Site, and to enable you to communicate, collaborate, and share information with those you designate;
 - To send you technical notices, updates, security alerts, and support and administrative messages;
-- For our business purposes we have a legitimate interest, when we: - Operate the Site;
+- For our business purposes we have a legitimate interest, when we:
+- Operate the Site;
 - Administer your account if you have registered on the Site, including billing and payment;
 - Send marketing, advertising, training, certification or event materials to which you've agreed, requested or subscribed or to otherwise inform you about our products and services;
 - Apply information security policies and controls on the Site, including overall Site integrity, identity management and account authentication;
@@ -93,7 +101,8 @@ Bitwarden may also provide your Personal Information to a third party if:
 Bitwarden may also share your Personal Information with our affiliates and partners, to facilitate our global operations and in accordance with applicable laws, and our agreements with customers or service providers.
 We may also provide your Personal Information to a third party in connection with a merger or acquisition of Bitwarden, either in part or in whole, or the assignment or other transfer of the Site or Service. In such event, such third party will either:
 - Continue to honor the privacy practices described in this Privacy Policy; or
-- If the third party proposes to materially change the privacy practices described in this Privacy Policy involving your Personal Information collected before such merger, acquisition, assignment or other transfer: - inform you and get your express affirmative consent to opt-in to the new practices; and/or
+- If the third party proposes to materially change the privacy practices described in this Privacy Policy involving your Personal Information collected before such merger, acquisition, assignment or other transfer:
+- inform you and get your express affirmative consent to opt-in to the new practices; and/or
 - inform you in some prominent manner enabling you to make a choice about whether to agree to the new practices.
 - You may choose to opt-out of allowing your Personal Information to be shared with certain third-parties. To do so, please Contact Us. We will do our best to respond in a timely manner and grant your request to the extent permitted by law.
 International Transfer And Storage Of Information Collected

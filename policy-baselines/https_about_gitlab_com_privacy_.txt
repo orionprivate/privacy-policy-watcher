@@ -37,91 +37,53 @@ When our processing is subject to international laws, including but not limited 
 We use your Personal Data to provide the Services you have subscribed to, and to complete and administer the contract you have entered into with GitLab, which includes the Subscription Agreement, the Website Terms of Use, event and training agreements, and any agreement to process payment information. The purposes of processing and the categories of information used under this lawful basis are described below:
 | Purpose of Processing | Personal Data Category |
 |---|---|
-| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested |
-|
-| To process your payment for the Services you have purchased |
-|
-| To provide Customer Success Services for the successful adoption of the Services |
-|
-| To conduct user research and development |
-|
-| To send you important information, such as notifications about changes to the Services |
-|
-| To provide you a forum to comment on or discuss the Services |
-|
-| To create digital productions and to manage online or in-person events |
-|
-| To provide trainings and learning opportunities |
-|
-| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event |
-|
-| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning |
-|
-| To respond to your requests for customer support |
-|
-| To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you |
-|
-| To enforce the Terms of Use, Acceptable Use Policy and other legal terms that govern our Services |
-|
+| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested | |
+| To process your payment for the Services you have purchased | |
+| To provide Customer Success Services for the successful adoption of the Services | |
+| To conduct user research and development | |
+| To send you important information, such as notifications about changes to the Services | |
+| To provide you a forum to comment on or discuss the Services | |
+| To create digital productions and to manage online or in-person events | |
+| To provide trainings and learning opportunities | |
+| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event | |
+| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning | |
+| To respond to your requests for customer support | |
+| To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you | |
+| To enforce the Terms of Use, Acceptable Use Policy and other legal terms that govern our Services | |
 We may use your Personal Data, with your consent, for specific purposes such as marketing, surveys, call recordings, and research. You may withdraw your consent for the specific purpose or object to the processing of your Personal Data at any time. The purposes of processing and the categories of information used under this lawful basis are described below:
 | Purpose of Processing | Personal Data Category |
 |---|---|
-| To understand how our Services are used and to improve our Services |
-|
-| To provide Customer Success Services for the successful adoption of the Services |
-|
-| To provide personalized experiences through the Websites and Services and manage our use of tracking technologies |
-|
-| To conduct user research and development |
-|
-| To send you information you have requested, such as information requested through our live-chat function |
-|
-| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications |
-|
-| To create digital productions and to manage online or in-person events |
-|
-| To provide trainings and learning opportunities |
-|
-| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event |
-|
+| To understand how our Services are used and to improve our Services | |
+| To provide Customer Success Services for the successful adoption of the Services | |
+| To provide personalized experiences through the Websites and Services and manage our use of tracking technologies | |
+| To conduct user research and development | |
+| To send you information you have requested, such as information requested through our live-chat function | |
+| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications | |
+| To create digital productions and to manage online or in-person events | |
+| To provide trainings and learning opportunities | |
+| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event | |
 We may use your Personal Data in connection with legal claims, regulatory compliance, and audits. The purposes of processing and the categories of information used under this lawful basis are described below:
 | Purpose of Processing | Personal Data Category |
 |---|---|
-| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested |
-|
-| To process your payment for the Services you have purchased |
-|
-| To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties |
-|
-| To comply with our legal obligations, including export, privacy and security regulations |
-|
-| To protect the rights, safety and property of GitLab, you, or any third-party |
-|
+| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested | |
+| To process your payment for the Services you have purchased | |
+| To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties | |
+| To comply with our legal obligations, including export, privacy and security regulations | |
+| To protect the rights, safety and property of GitLab, you, or any third-party | |
 We rely on our legitimate interests or the legitimate interests of a third-party, such as our users, where they are not outweighed by your interests or fundamental rights and freedoms. You may object to the processing of your Personal Data for these purposes at any time. The purposes of processing and the categories of information used under this lawful basis are described below:
 | Purpose of Processing | Personal Data Category |
 |---|---|
-| To understand how our Services are used and to improve our Services |
-|
-| To provide Customer Success Services for the successful adoption of the Services |
-|
-| To administer and maintain our Websites |
-|
-| To send you important information, such as notification about changes to the Services |
-|
-| To send you information you have requested, such as information requested through our live-chat function |
-|
-| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications |
-|
-| To provide you a forum to comment on or discuss the Services |
-|
-| To provide search indexing of user profiles and contributions |
-|
-| To create digital productions and to manage online or in-person events |
-|
-| To provide trainings and learning opportunities |
-|
-| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning |
-|
+| To understand how our Services are used and to improve our Services | |
+| To provide Customer Success Services for the successful adoption of the Services | |
+| To administer and maintain our Websites | |
+| To send you important information, such as notification about changes to the Services | |
+| To send you information you have requested, such as information requested through our live-chat function | |
+| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications | |
+| To provide you a forum to comment on or discuss the Services | |
+| To provide search indexing of user profiles and contributions | |
+| To create digital productions and to manage online or in-person events | |
+| To provide trainings and learning opportunities | |
+| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning | |
 We may share each of the categories of Personal Data we collect with the types of third-parties described below, for the following business purposes:
 Sharing with Users and the Public: We may share your Personal Data with other users of the Services and with the public if you choose to make your SaaS Profile public. You have control over what information is public; however, your name and username will always be displayed unless your organization has modified user account settings. If you do not want to disclose your real name, please use a pseudonym or other alias in your profile and username. To change your settings, go to User Settings in your profile. You should also be aware that any information you share as part of a project, blog, website etc. may be publicly available and you should consider this carefully when interacting with the Services. Also, we may collect and share public community contribution metrics as part of our Evangelist Program.
 Sharing with Managed Accounts and Administrators: If you have created a GitLab account with your corporate email address, we may share your Personal Data with your Company if your Company enters into a commercial relationship with GitLab. If this happens, then your use of the software and your account is subject to the terms and any data protection agreement between your Company and GitLab.

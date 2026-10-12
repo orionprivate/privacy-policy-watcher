@@ -42,6 +42,7 @@ This section refers to the AI tools in Kagi including but not limited to Kagi As
 - When using third party AI model providers, we are using privacy-respecting services that do not save the data or use it for training, whenever possible. Please refer to Kagi LLM Privacy for details.
 - Unless stated below, and in a similar vein as Search, requests to AI tools are not saved or associated with a customer account (they may be retained for a short period of time as a part of request debugging, explained above).
 - By default and unless otherwise stated, Kagi Assistant automatically deletes conversation threads after one day. After this period, they are permanently removed. Users can also choose to delete a thread immediately via the Assistant UI.
+- Reported threads are an exception to the deletion period above. If you choose to report an Assistant threadâfor example, because it contains inaccurate or missing information, a technical problem, or potentially prohibited contentâthe reported thread is made available to the Kagi team for review. Reported threads are retained for 30 days and then automatically deleted.
 - Summaries of public web pages may be cached for a short period of time, not more than a day. No customer data is cached.
 The Orion browser is a zero-telemetry browser by default, and will transmit no personal information to Kagi servers unless opted-in by the user (for example for automatic updates, or for using built-in Kagi services on demand).
 The Kagi browser extension is governed by the overall Kagi Privacy Policy above, in particular:
@@ -55,6 +56,11 @@ If you have any concerns please contact us at security@kagi.com or check our Bug
 For payment processing, Kagi uses external payment processors such as Stripe, Reach, PayPal, and OpenNode. These services may be loaded only when necessary for billing and administrative purposes. Your use of these payment services is subject to their respective terms and privacy policies.
 Payment information is not used to link users to their Kagi activities. While we do keep a record of usage volume for billing purposes, search queries themselves are only logged temporarily for debugging purposes and are automatically purged after a short period, as detailed above. This temporary logging helps us maintain and improve service quality while preserving user privacy.
 We may use the email address provided for necessary payment-related communications such as receipts, invoices, and payment update notifications. Within Kagi, access to billing data is restricted only to authorized personnel.
+The Kagi API runs on the same infrastructure as Kagi Search, and we treat data sent to it with the same restraint described throughout this policy.
+What we receive. When you call the API, we receive your input (such as a search query, or text to translate or summarize) and the API key identifying your account. We use the key to authenticate the request and to meter usage for billing.
+What we store. We keep a record of usage volume for billing, as we do for other paid plans. We do not store API queries against your account or use them to build a profile. Queries may be logged temporarily, in a non-account-linked manner, for debugging and abuse prevention, then automatically purged under the same retention periods shown in the retention table above (load balancer and VM logs: 7 days; Sentry error samples: 90 days, sampled).
+Your end users. If you send queries to the API on behalf of your own users, those users are your customers, not ours. We do not knowingly receive or want their personal data, and you are responsible for what you send. Please do not transmit sensitive personal data through the API. If your queries include personal data about other people, you act as the controller of that data and we process it on your behalf; we're finishing a Data Processing Addendum that covers this in full, including standard contractual clauses for international transfers. Once published it will be incorporated into the API Terms, and we'll let API customers know.
+AI. Where the API relies on third-party AI providers, we use privacy-respecting services that do not save the data or use it for training, whenever possible. The same commitment we make for AI services elsewhere in this policy.
 We, Kagi, are committed to being transparent and taking full control of our service. Private information of our customers has never been disclosed or seized, nor have we been compromised or suffered a data breach.
 Kagi has received:
 - 0 National Security letters
@@ -68,7 +74,7 @@ Introduction These Terms of Service ("Terms") govern your use of Kagi (the "Serv
 Accounts In order to use some of the Services, you may need to create a Kagi Account. During registration, you will be asked to set a password. You are responsible for keeping your password confidential and other authentication methods and for the activity that happens through your Kagi account. Kagi is not responsible for any losses arising out of unauthorized use of your account.
 Privacy Policy We use the information we receive through the Services as described in our Kagi Privacy Policy, which is stated in full above.
 Fair Use Policy In an effort to provide high-quality services to all users, we limit AI tool interactions based on your plan's value. For example, a $25 monthly plan allows up to $25 worth of token usage across all models.
-Commercial Use Only Kagi API products are licensed for commercial use. Frontend products, such as (but not limited to) Universal Summarizer (found here) may only be used for non commercial purposes. We define "non-commercial" following the Creative Commons definition: "not primarily intended for or directed towards commercial advantage or monetary compensation. If you would like to use frontend products for commercial use, please contact support@kagi.com or ask on Discord to arrange for a license.
+Commercial Use Only Kagi API products are licensed for commercial use. Frontend products, such as (but not limited to) Universal Summarizer (found here) may only be used for non commercial purposes. We define "non-commercial" following the Creative Commons definition: "not primarily intended for or directed towards commercial advantage or monetary compensation. If you would like to use frontend products for commercial use, please contact support@kagi.com or ask on Discord to arrange for a license. Use of the Kagi API is additionally governed by the Kagi API Terms of Service.
 Communications We send periodic messages to help you get the most from your Kagi Account. You may receive these in your browser or to the address you signed-up with; they cover onboarding, different Services, and Kagi related offers and surveys. You can opt-out of these in your Kagi account settings. We may send transactional emails as needed (for example billing receipts, subscription updates and so on).
 Payments For subscriptions that renew automatically and/or postpaid products, you authorize Kagi and its billing providers to charge your payment methods until the subscription is terminated and all postpaid products have been paid for. Auto-renewing subscriptions may be canceled online in your account settings at any time prior to the renewal date. You may also cancel your subscription via email to support@kagi.com, in which case your cancellation must be received at least 72 hours prior to renewal in order to allow for processing time. Kagi and its billing providers reserve the right to collect any outstanding payments to the maximum extent permitted by applicable law.
 Proprietary Rights Kagi does not grant you any intellectual property rights in the Services that are not specifically stated in these Terms. For example, these Terms do not provide the right to use any of Kagiâs copyrights, trade names, trademarks, service marks, logos, domain names, or other distinctive brand features.
@@ -78,18 +84,24 @@ Disclaimer; Limitation of Liability THE SERVICES ARE PROVIDED "AS IS" WITH ALL F
 Modifications to these Terms Kagi may update these Terms from time to time to address a new feature of the Services or to clarify a provision. The updated Terms will be posted online. If the changes are substantive, we will announce the update through Kagi's usual channels for such announcements such as blog posts and forums. Your continued use of the Services after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of this page.
 Miscellaneous These Terms constitute the entire agreement between you and Kagi concerning the Services and are governed by the laws of the state of Delaware, U.S.A., excluding its conflict of law provisions. If any portion of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect. In the event of a conflict between a translated version of these terms and the English language version, the English language version shall control.
 The previous versions of the policy are always available at the Internet Archive.
+2026-09-22
+- Added details about the retention and review of reported Kagi Assistant threads.
+- Added a Kagi API section covering data handling, billing metering, end-user data, and third-party AI providers.
+- Linked the Kagi API Terms of Service from the Commercial Use terms.
 2026-02-17
 Added Your Data Protection Rights covering GDPR, CCPA, and state privacy law data subject rights.
 Added phrasing "including but not limited to" in the opening of the Use of AI Services section to cover future products.
 2025-02-15
-Clarify that only a subset of server-side Sentry errors are collected.2025-02-13
+Clarify that only a subset of server-side Sentry errors are collected.
+2025-02-13
 - Added Privacy pass and Tor options
 - Added request debugging information
 - Added applemap and mapkit cookie information
 - Changed fair use for AI to be bound to actual token cost
 - Simplified and clarified the language
 2024-05-29
-Added section on Browser-Extension2023-09-21
+Added section on Browser-Extension
+2023-09-21
 Increased Fair Use limits for AI tools (300 to 500)
 2023-08-15
 Updated Terms of Use (Clarified commercial use licensing)

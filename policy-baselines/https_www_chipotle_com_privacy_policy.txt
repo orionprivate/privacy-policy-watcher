@@ -1,118 +1,22 @@
 CHIPOTLE’S U.S. PRIVACY POLICY, INCLUDING CALIFORNIA PRIVACY RIGHTS
 This “Privacy Policy” describes how Chipotle Mexican Grill, Inc. and its subsidiaries and affiliates in the United States (“Chipotle”, “we”, “our”, “us”) may collect, use, and disclose personal information of visitors who access or interact with our mobile application (“App”) or our websites (“Websites”) that link to this Privacy Policy, as well as other personal information about our customers. The App, those Websites, our restaurants, and our related service offerings are referred to in this Privacy Policy as our “Services.” This Privacy Policy is applicable to all consumers in the United States (US). We maintain separate privacy policies and notices for our employees and contractors in the United States and for customers and employees in the European Union, United Kingdom, and Canada. We also maintain a separate Applicant Privacy Notice that is applicable to job applicants in the United States, European Union, United Kingdom, and Canada. This Privacy Policy also does not apply to our former employees and their family members, dependents, and beneficiaries; if you are a California resident who is a current or former Independent Contractor (as that term is defined in the California Consumer Privacy Act (CCPA)) or employee of Chipotle or a family member, dependent, or beneficiary of any of our current or former employees, you may request access to our employee and contractor privacy policies and notices by navigating to the policies link within Chipotle’s intranet or by sending an email to privacy@chipotle.com.
 This Privacy Policy includes the following sections:
-- Collection of Information
-- Use of Information
-- Disclosure of Information
-- Retention of Information
-- Security
-- Privacy For Those Under The Age of 18
-- nterest-Based Advertising - Your Choices
-- Your State Privacy Rights and Additional Disclosures
-- Links to Third Party Websites and Services
-- Changes to Chipotle’s Privacy Policy
-- Contact Us
 Notice at Collection
 We collect personal information as detailed below and in our Privacy Policy. To learn more, including how you can opt-out of the sale or sharing of your personal information, please see the “Your State Privacy Rights and Additional Disclosures” section below.
 | Category of personal information | Purpose for collection and Processing (Including Business and Commercial Purposes) | Categories of Recipients | Used for “Sell”, “Share”, or “Targeted Advertising”* (yes/no) |
-| Identifiers such as names, addresses, phone numbers, and email addresses | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Payment Processors
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-No
-|
-| Protected categories of information, such as your age range, marital status, and other demographic information | To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To improve our customer service and other internal business purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Vendors providing services to us | No |
-| Commercial information, such as records of your orders and other transactions with us | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Payment Processors
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-No
-|
+| Identifiers such as names, addresses, phone numbers, and email addresses | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Payment Processors Vendors providing services to us | Yes No Yes No No No |
+| Protected categories of information, such as your age range, marital status, and other demographic information | To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To improve our customer service and other internal business purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Vendors providing services to us | No |
+| Commercial information, such as records of your orders and other transactions with us | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Payment Processors Vendors providing services to us | Yes No Yes No No No |
 | Precise Geolocation Data (this is sensitive personal information) | To provide you with products and services reasonably expected (e.g., to provide you with the nearest restaurant location, location nudges, and to have your order ready when you arrive) | Vendors providing services to us | No |
-| General Geolocation Data | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Payment Processors
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-No
-|
-| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interactions with websites, applications, or advertisements, and other information described in the Information Collected Automatically section of our Privacy Policy | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-|
-| Other information you provide to us, including user-generated content and information provided via contests, giveaways, and / or promotions | To operate our businesses To conduct business analytics For safety and security purposes To design and develop new product and service offerings To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-|
-| Sensory data such as recordings of customer care calls or CCTV footage | To operate our businesses To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request | Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | No
-No |
-| Inferences from personal information collected such as a profile about a consumer reflecting the consumer’s preferences, demographics, characteristics, and interests | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To conduct business analytics For research purposes To design and develop new product and service offerings For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-|
+| General Geolocation Data | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Payment Processors Vendors providing services to us | Yes No Yes No No No |
+| Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding your interactions with websites, applications, or advertisements, and other information described in the Information Collected Automatically section of our Privacy Policy | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To communicate with you For research purposes To design and develop new product and service offerings To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | Yes No Yes No No |
+| Other information you provide to us, including user-generated content and information provided via contests, giveaways, and / or promotions | To operate our businesses To conduct business analytics For safety and security purposes To design and develop new product and service offerings To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | Yes No Yes No No |
+| Sensory data such as recordings of customer care calls or CCTV footage | To operate our businesses To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request | Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | No No |
+| Inferences from personal information collected such as a profile about a consumer reflecting the consumer’s preferences, demographics, characteristics, and interests | To provide you with products and services To operate our businesses To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To conduct business analytics For research purposes To design and develop new product and service offerings For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | Yes No Yes No No |
 | Accessibility (i.e. whether you want your order placed on an ADA accessible shelf) | To provide you with products and services To improve our customer service and other internal business purposes To fulfill or meet the request To fulfill our legal obligations and other notified purposes | Vendors providing services to us | No |
-| Nutrition Preferences (i.e. whether you are avoiding dairy, soy, or gluten, or if you are interested in options that are vegan or keto) | To provide you with products and services To design and develop new product and service offerings To improve our customer service and other internal business purposes To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To conduct business analytics To fulfill or meet the request To fulfill our legal obligations and other notified purposes | Analytics companies
-Data Brokers
-Third Party Advertisers
-Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | Yes
-No
-Yes
-No
-No
-|
-| Fundraising and Donations | To provide you with products and services To operate our businesses To communicate with you To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request | Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | No
-No
-|
-| Contests, Promotions, Surveys, Focus Groups, or other Market Research | To operate our businesses To conduct business analytics To conduct marketing, personalization, and advertising For research purposes For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes
-Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Government Agencies (if necessary to meet legal obligations)
-Vendors providing services to us | No
-No
-|
+| Nutrition Preferences (i.e. whether you are avoiding dairy, soy, or gluten, or if you are interested in options that are vegan or keto) | To provide you with products and services To design and develop new product and service offerings To improve our customer service and other internal business purposes To conduct marketing, personalization, and advertising, including interest based advertising and cross-context advertising To conduct business analytics To fulfill or meet the request To fulfill our legal obligations and other notified purposes | Analytics companies Data Brokers Third Party Advertisers Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | Yes No Yes No No |
+| Fundraising and Donations | To provide you with products and services To operate our businesses To communicate with you To conduct business analytics For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes To fulfill or meet the request | Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | No No |
+| Contests, Promotions, Surveys, Focus Groups, or other Market Research | To operate our businesses To conduct business analytics To conduct marketing, personalization, and advertising For research purposes For safety and security purposes To improve our customer service and other internal business purposes To fulfill our legal obligations and other notified purposes Each of the foregoing as necessary to administer our Rewards program, including your participation in our Rewards program | Government Agencies (if necessary to meet legal obligations) Vendors providing services to us | No No |
 *References to “Sell,” “Sale,” “Share,” and “Targeted Advertising” in this Policy are references to the meanings ascribed to these terms in applicable privacy laws.
 We retain personal information for as long as necessary to achieve the purposes for which the information was collected. In certain cases, we may need to retain personal information for purposes required under applicable law, for tax or audit purposes, or for other purposes permitted under law.
 For the purposes of this policy, “personal information” means any information about an identifiable individual including, without limitation, your name, address, telephone number, and email address. Personal information does not include publicly available information from government records or deidentified or aggregated consumer information that Chipotle does not attempt to reidentify. We collect and use your personal information when you:
@@ -241,22 +145,16 @@ Below is the status of privacy requests for the previous year, detailing the num
 | Right to Access | 156 | 38 | 117 | 311 |
 | Right to Correct | 235 | 128 | 107 | 470 |
 | Do Not Sell or Share My Personal Information (received via Webform) | 1589 | 1543 | 46 | 3178 |
-|
-|
-|
-|
-| |
+| | | | | |
 | Total | 159300 | 12529 | 5447 | 177282 |
-| REQUEST TYPE | AVERAGE - REQUEST COMPLETE IN DAYS | MEDIAN - REQUEST COMPLETE IN DAYS | |
-| Delete My Personal Information | 8 | 4 | |
-| Right to Know | 8 | 4 | |
-| Right to Access | 9 | 9 | |
-| Right to Correct | 7 | 4 | |
-| Do Not Sell or Share My Personal information | 7 | 2 | |
-|
-Request Complete in days = Date Request opened – Date Request closed |
-|
-|
+| REQUEST TYPE | AVERAGE - REQUEST COMPLETE IN DAYS | MEDIAN - REQUEST COMPLETE IN DAYS |
+| Delete My Personal Information | 8 | 4 |
+| Right to Know | 8 | 4 |
+| Right to Access | 9 | 9 |
+| Right to Correct | 7 | 4 |
+| Do Not Sell or Share My Personal information | 7 | 2 |
+| Request Complete in days = Date Request opened – Date Request closed | | |
+| |
 Nondiscrimination
 We will not discriminate against you for exercising your privacy rights.
 Notice of Financial Incentives and Rewards Program

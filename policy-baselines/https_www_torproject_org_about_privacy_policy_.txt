@@ -59,10 +59,10 @@ These settings:
 Note: The list of installed apps and protected apps are necessary for the appâs VPN enforcement logic â to guarantee that all apps are routed over Tor unless explicitly exempted by the user.
 4. Permissions (Android)
 Tor Browser for Android currently requires the following permissions:
-- INTERNETâ to connect to the Tor network
-- WAKE_LOCKâ prevents the device from sleeping during active use (e.g., video playback)
-- MODIFY_AUDIO_SETTINGSâ required by WebRTC-related components (note: WebRTC is permanently disabled at build time)
-- HIGH_SAMPLING_RATE_SENSORSâ used for certain JavaScript APIs; timing is throttled by Tor Browserâs privacy protections
+- INTERNET â to connect to the Tor network
+- WAKE_LOCK â prevents the device from sleeping during active use (e.g., video playback)
+- MODIFY_AUDIO_SETTINGS â required by WebRTC-related components (note: WebRTC is permanently disabled at build time)
+- HIGH_SAMPLING_RATE_SENSORS â used for certain JavaScript APIs; timing is throttled by Tor Browserâs privacy protections
 These permissions are not related to data collection, and are scoped to support functionality inherited from the Firefox (Fenix) base.
 We regularly review and audit inherited permissions to ensure they do not compromise user privacy or exposure.
 Tor Browser for Android does not request access to:
@@ -82,15 +82,15 @@ Tor VPN requests the following Android permissions in order to function properly
 These are limited to what is strictly necessary for VPN operation, user control, and system integration.
 No permissions are used for telemetry, user tracking, or personal data collection.
 Permissions required:
-- INTERNETâ to connect to the Tor network and route traffic
-- BIND_VPN_SERVICEâ to create and maintain secure VPN connections
-- ACCESS_NETWORK_STATE / ACCESS_WIFI_STATEâ to detect network availability and changes
-- RECEIVE_BOOT_COMPLETEDâ to optionally start Tor VPN on device boot (if the user enables âStart on bootâ)
-- QUERY_ALL_PACKAGESâ used locally to display a list of installed apps for per-app routing settings (never transmitted or logged)
-- WAKE_LOCKâ prevents the device from sleeping during active VPN use
-- FOREGROUND_SERVICE / FOREGROUND_SERVICE_SYSTEM_EXEMPTEDâ to comply with modern Android requirements for long-running VPN services
-- VIBRATEâ used only for optional in-app notifications (e.g., connection status)
-- POST_NOTIFICATIONSâ used for connection status notifications when enabled (Android 13+)
+- INTERNET â to connect to the Tor network and route traffic
+- BIND_VPN_SERVICE â to create and maintain secure VPN connections
+- ACCESS_NETWORK_STATE / ACCESS_WIFI_STATE â to detect network availability and changes
+- RECEIVE_BOOT_COMPLETED â to optionally start Tor VPN on device boot (if the user enables âStart on bootâ)
+- QUERY_ALL_PACKAGES â used locally to display a list of installed apps for per-app routing settings (never transmitted or logged)
+- WAKE_LOCK â prevents the device from sleeping during active VPN use
+- FOREGROUND_SERVICE / FOREGROUND_SERVICE_SYSTEM_EXEMPTED â to comply with modern Android requirements for long-running VPN services
+- VIBRATE â used only for optional in-app notifications (e.g., connection status)
+- POST_NOTIFICATIONS â used for connection status notifications when enabled (Android 13+)
 These permissions are not used to collect, transmit, or share personal data.
 All permissions are either essential for VPN functionality or provide local-only features controlled by the user.
 We routinely audit all permissions to ensure they remain aligned with our privacy-preserving principles.
@@ -105,7 +105,7 @@ Tor VPN does not request access to:
 5. Data Sharing & Third Parties
 - No user data is shared with third parties â no advertisers, analytics providers, or others.
 - In Tor Browser for Desktop, users may manually choose to visit https://check.torproject.org via a link in the Tor Browser home page (about:tor) to verify their connection. This is optional, user-initiated, and routed over Tor. No identifying information is logged or stored. This check is not performed automatically and is not present on Android.
-- For Tor Browser on Desktop, the application may anonymously check for available software updates from Tor Project servers. These update checks: -
+- For Tor Browser on Desktop, the application may anonymously check for available software updates from Tor Project servers. These update checks:
 - Check for software updates from Tor Project servers, over the Tor network
 - Fetch extension updates from Mozillaâs Add-ons service (e.g., for bundled extensions like NoScript)
 - These update requests are not linked to user identity or device information.
@@ -119,7 +119,7 @@ However, users should be aware of the following cases where some data may persis
 - Bookmarks and downloads created by users are saved to the local device and are not deleted automatically.
 - Tor State files necessary for Tor network connectivity (such as guard nodes and consensus info). This data is non-identifying and used only for Tor functionality.
 - Local browser preferences and configuration data such as settings, saved passwords, site exceptions, search engine selections, preferences for showing dialogs, and other locally stored user-configured information.
-- Private Browsing Mode (PBM) behavior: -
+- Private Browsing Mode (PBM) behavior:
 - On Android, PBM is always-on, and prevents local storage of history, cookies, or session data.
 - On Desktop, PBM is enabled by default, but can be disabled in browser settings. In this case, data such as browsing history, cookies, and cached site data may persist across sessions unless cleared manually.
 - Session Data (e.g. tabs, site data, cookies, history) is erased when the app is closed (Android), or the user choses "New Identity" or closes the browser (Desktop with PBM enabled)

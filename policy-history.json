@@ -94,5 +94,421 @@
   "level": 2,
   "categories": [],
   "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Google",
+  "url": "https://policies.google.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Google (en-US)",
+  "url": "https://policies.google.com/privacy?hl=en-US",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Google (product privacy notice)",
+  "url": "https://support.google.com/product-documentation/answer/14815921",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Apple",
+  "url": "https://www.apple.com/legal/privacy/en-ww/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Microsoft",
+  "url": "https://www.microsoft.com/en-us/privacy/privacystatement",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Meta (Facebook, printable)",
+  "url": "https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Yahoo",
+  "url": "https://legal.yahoo.com/us/en/yahoo/privacy/index.html",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "LiveRamp",
+  "url": "https://liveramp.com/privacy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Acxiom",
+  "url": "https://www.acxiom.com/about-us/privacy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Experian",
+  "url": "https://www.experian.com/privacy/us-consumer-data-privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "OpenAI",
+  "url": "https://openai.com/policies/privacy-policy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Perplexity",
+  "url": "https://www.perplexity.ai/hub/legal/privacy-notice",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Cursor",
+  "url": "cursor.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Snap",
+  "url": "https://www.snap.com/privacy/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "LinkedIn",
+  "url": "https://www.linkedin.com/legal/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "WeChat",
+  "url": "https://www.wechat.com/en/privacy_policy.html",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Telegram",
+  "url": "https://telegram.org/privacy?setln=en",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Spotify",
+  "url": "https://www.spotify.com/us/legal/privacy-policy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Hulu",
+  "url": "https://press.hulu.com/privacy-policy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Twitch",
+  "url": "https://legal.twitch.com/en/legal/privacy-notice/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Roblox",
+  "url": "https://www.roblox.com/info/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "AliExpress",
+  "url": "https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407.html",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Walmart",
+  "url": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Chipotle",
+  "url": "https://www.chipotle.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Airbnb",
+  "url": "https://www.airbnb.com/help/article/2855",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "DoorDash (corporate)",
+  "url": "https://about.doordash.com/en-us/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Instacart",
+  "url": "https://www.instacart.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Uber (riders)",
+  "url": "https://www.uber.com/global/en/privacy-notice-riders-order-recipients/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Lyft",
+  "url": "https://www.lyft.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Hims",
+  "url": "https://www.hims.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "GoodRx (California notice)",
+  "url": "https://support.goodrx.com/hc/en-us/articles/4411678336539-California-Consumer-Privacy-Notice",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "MyFitnessPal",
+  "url": "https://www.myfitnesspal.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Headspace",
+  "url": "https://www.headspace.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Plaid",
+  "url": "https://www.plaid.com/legal/#privacy-statement",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Privacy.com",
+  "url": "https://www.privacy.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Notion",
+  "url": "https://www.notion.com/help/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Canva",
+  "url": "https://www.canva.com/policies/privacy-policy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Salesforce",
+  "url": "https://www.salesforce.com/company/legal/privacy/#privacy-statement",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Instructure (Canvas)",
+  "url": "https://www.instructure.com/policies/product-privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Zoom",
+  "url": "https://www.zoom.com/en/trust/privacy/privacy-statement/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Dropbox",
+  "url": "https://www.dropbox.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "LibreOffice",
+  "url": "https://www.libreoffice.org/privacy-policy-en/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "GitHub",
+  "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Proton Mail",
+  "url": "https://proton.me/mail/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Tuta",
+  "url": "https://tuta.com/privacy-policy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Kagi",
+  "url": "https://kagi.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Brave",
+  "url": "https://brave.com/privacy/browser/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Mozilla Firefox",
+  "url": "https://www.mozilla.org/en-US/privacy/firefox/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Tor Project",
+  "url": "https://www.torproject.org/about/privacy_policy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Bitwarden",
+  "url": "https://bitwarden.com/privacy/",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "LastPass",
+  "url": "https://www.lastpass.com/legal-center/privacy-notice",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
+ },
+ {
+  "date": "2026-10-12",
+  "name": "Ente",
+  "url": "https://ente.com/privacy",
+  "level": 2,
+  "categories": [],
+  "summary": "Classifier failed. Raw change preserved in the evidence file."
  }
 ]

@@ -29,7 +29,7 @@ We may share Personal Data with various parties, including:
 - third party accounts (in relation to Tableau); and
 - public authorities.
 Please review the "Who do we share Personal Data with" section in our full Privacy Statement for the full list and more detailed information about each category listed above.
-Your Personal Data may be transferred to, and stored by us, in the United States and by our affiliates and third parties (as disclosed in the full Privacy Statement) as listed in the Privacy Statement. Therefore, your Personal Data may be processed and stored outside your country or jurisdiction, including in places that may not provide the same level of protection. As described in the "International transfers of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of protection where your Personal Data is transferred, including, where required, standard contractual clauses or an alternative mechanism for the transfer of Personal Data as approved by the European Commission. Salesforce also commits to comply with the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. Data Privacy Framework (collectively, the “DPF”) and certifies its adherence to the DPF Principles as set forth by the U.S. Department of Commerce.
+Your Personal Data may be transferred to, and stored by us, in the United States and by our affiliates and third parties (as disclosed in the full Privacy Statement). Therefore, your Personal Data may be processed and stored outside your country or jurisdiction, including in places that may not provide the same level of protection. As described in the "International transfers of Personal Data" section of our full Privacy Statement, we have implemented safeguards to ensure an adequate level of protection where your Personal Data is transferred, including, where required, standard contractual clauses or an alternative mechanism for the transfer of Personal Data as approved by the European Commission. Salesforce also commits to comply with the EU-U.S. Data Privacy Framework, the Swiss-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. Data Privacy Framework (collectively, the “DPF”) and certifies its adherence to the DPF Principles as set forth by the U.S. Department of Commerce.
 For more information, please see the full Privacy Statement.
 You have certain rights relating to your Personal Data, subject to local data protection laws. Depending on the applicable laws, these rights may include the right to:
 - Access your Personal Data held by us;
@@ -44,7 +44,7 @@ You have certain rights relating to your Personal Data, subject to local data pr
 - Opt out of the sharing of your Personal Data for delivering advertisements on non-Salesforce websites, applications, and services;
 - If you’re under the age of 16, or such other applicable age of consent for privacy purposes in relevant individual jurisdictions, opt in to certain disclosures of your Personal Data to third parties;
 - Not be subject to a decision based solely on automated processing, including profiling, which produces legal effects (“automated decision-making”);
-- Withdraw your consent at any time (to the extent we rely on consent as our legal basis for processing it);
+- Withdraw your consent at any time (to the extent we rely on consent as our legal basis for processing);
 - Complain about the use of your Personal Data;
 - Not be discriminated against for exercising your rights as described above; and
 - Appeal our refusal to act upon your request to exercise a right relating to your Personal Data by following the steps provided in response to your inquiry.
@@ -54,8 +54,7 @@ Salesforce Data Protection Officer (Salesforce Privacy Team) (and in India, a Gr
 415 Mission St., 3rd Floor
 San Francisco, CA 94105, USA
 When you contact us, please indicate in which country and/or state you reside.
-If you have an unresolved concern in respect of our processing of your Personal Data that you believe we have not addressed satisfactorily, you can contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
-If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA or the UK, you have the right to lodge a complaint with the competent supervisory authority. If you work or reside in a country that is a member of the European Union or that is in the EEA, you may find the contact details for your appropriate data protection authority on the following website.
+We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, and you are located in the European Economic Area or the United Kingdom, you have the right to lodge a complaint with the competent supervisory authority. If you work or reside in a country that is a member of the European Union or that is in the EEA, you may find the contact details for your appropriate data protection authority on the following website.
 If you provide us, our service providers or our affiliates with any Personal Data relating to other individuals, you:
 • represent that you have the authority to do so,
 • where required, have obtained their necessary consent(s) to share their Personal Data with us for processing, and
